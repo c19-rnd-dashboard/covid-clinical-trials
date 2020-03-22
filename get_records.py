@@ -1,4 +1,3 @@
-#%%writefile get_records.py
 import requests
 
 def get_covid_data(num_records, search='covid-19'):
@@ -21,15 +20,16 @@ def get_covid_data(num_records, search='covid-19'):
     count = 0
     
     while count < num_records:
-        min_rank = count+1
-        max_rank = count+10
         url = f"https://clinicaltrials.gov/api/query/full_studies?expr={search}%0D%0A&min_rnk=1&max_rnk=100&fmt=json"
         r = requests.get(url)
         data = r.json()
         try:
             for study in data['FullStudiesResponse']['FullStudies']:
-                records.append(study)
-                count += 1
+                if study['Study']['ProtocolSection']['DesignModule']['StudyType'] == 'Interventional':
+                    records.append(study)
+                    count += 1
+                else:
+                    pass
         except KeyError:
             break
     
@@ -41,28 +41,27 @@ li = get_covid_data(30)
 
 for study in li:
     
-    if study['Study']['ProtocolSection']['DesignModule']['StudyType'] == 'Interventional':
-    
-        orgName = study['Study']['ProtocolSection']['IdentificationModule']['Organization']['OrgFullName']
-        bTitle = study['Study']['ProtocolSection']['IdentificationModule']['BriefTitle']
-        oTitle = study['Study']['ProtocolSection']['IdentificationModule']['OfficialTitle']
 
-        phase = study['Study']['ProtocolSection']['DesignModule']['PhaseList']['Phase']
+    orgName = study['Study']['ProtocolSection']['IdentificationModule']['Organization']['OrgFullName']
+    bTitle = study['Study']['ProtocolSection']['IdentificationModule']['BriefTitle']
+    oTitle = study['Study']['ProtocolSection']['IdentificationModule']['OfficialTitle']
 
-        interventionName = ', '.join(i['InterventionName'] for i in study['Study']['ProtocolSection']['ArmsInterventionsModule']['InterventionList']['Intervention'])
+    phase = study['Study']['ProtocolSection']['DesignModule']['PhaseList']['Phase']
 
-        lastUpdate = study['Study']['ProtocolSection']['StatusModule']['LastUpdateSubmitDate']
-        currentStatus = study['Study']['ProtocolSection']['StatusModule']['OverallStatus']
-        startDate = study['Study']['ProtocolSection']['StatusModule']['StartDateStruct']['StartDate']
-        compDate = study['Study']['ProtocolSection']['StatusModule']['CompletionDateStruct']['CompletionDate']
-        compType = study['Study']['ProtocolSection']['StatusModule']['CompletionDateStruct']['CompletionDateType']
-        leadSponsor = study['Study']['ProtocolSection']['SponsorCollaboratorsModule']['LeadSponsor']['LeadSponsorName']
-        leadSponsorClass = study['Study']['ProtocolSection']['SponsorCollaboratorsModule']['LeadSponsor']['LeadSponsorClass']
+    interventionName = ', '.join(i['InterventionName'] for i in study['Study']['ProtocolSection']['ArmsInterventionsModule']['InterventionList']['Intervention'])
 
-        briefSummary = study['Study']['ProtocolSection']['DescriptionModule']['BriefSummary']
+    lastUpdate = study['Study']['ProtocolSection']['StatusModule']['LastUpdateSubmitDate']
+    currentStatus = study['Study']['ProtocolSection']['StatusModule']['OverallStatus']
+    startDate = study['Study']['ProtocolSection']['StatusModule']['StartDateStruct']['StartDate']
+    compDate = study['Study']['ProtocolSection']['StatusModule']['CompletionDateStruct']['CompletionDate']
+    compType = study['Study']['ProtocolSection']['StatusModule']['CompletionDateStruct']['CompletionDateType']
+    leadSponsor = study['Study']['ProtocolSection']['SponsorCollaboratorsModule']['LeadSponsor']['LeadSponsorName']
+    leadSponsorClass = study['Study']['ProtocolSection']['SponsorCollaboratorsModule']['LeadSponsor']['LeadSponsorClass']
 
-        print(
-    f"""Brief Title: {bTitle}
+    briefSummary = study['Study']['ProtocolSection']['DescriptionModule']['BriefSummary']
+
+    print(
+f"""Brief Title: {bTitle}
 
 Official Title: {oTitle}
 Trial Phase: {phase}
@@ -76,5 +75,3 @@ Brief description of Trial:
 {briefSummary}
 {'-'*80}
 """)
-    else:
-        pass 
