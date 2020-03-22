@@ -4,7 +4,8 @@ def get_covid_data(num_records):
     """Returns list of full study records from cinicaltrials.gov
         
         Parameters
-        num_records(int): number of studies desired (note: may return fewer) 
+        num_records(int): number of studies desired in tens (e.g. 30,50,120) 
+            note: may return fewer if insufficient records exist
         
         For additional information:
         https://clinicaltrials.gov/api/gui/ref/api_urls
