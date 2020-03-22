@@ -1,4 +1,4 @@
-totaly records returned: 100
+totaly records returned: 65
 ==============================
 Brief Title: Various Combination of Protease Inhibitors, Oseltamivir, Favipiravir, and Chloroquin for Treatment of COVID19 : A Randomized Control Trial
 
