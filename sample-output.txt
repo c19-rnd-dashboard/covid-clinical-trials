@@ -24,7 +24,15 @@ The anticipated completion date is December 31, 2024.
 The trial is OTHER sponsored, and the lead sponsor is Shenzhen Geno-Immune Medical Institute.
 
 Brief description of Trial: 
-In December 2019, viral pneumonia caused by a novel beta-coronavirus (Covid-19) broke out in Wuhan, China. Some patients rapidly progressed and suffered severe acute respiratory failure and died, making it imperative to develop a safe and effective vaccine to treat and prevent severe Covid-19 pneumonia. Based on detailed analysis of the viral genome and search for potential immunogenic targets, a synthetic minigene has been engineered based on conserved domains of the viral structural proteins and a polyprotein protease. The infection of Covid-19 is mediated through binding of the Spike protein to the ACEII receptor, and the viral replication depends on molecular mechanisms of all of these viral proteins. This trial proposes to develop and test innovative Covid-19 minigenes engineered based on multiple viral genes, using an efficient lentiviral vector system (NHP/TYF) to express viral proteins and immune modulatory genes to modify dendritic cells (DCs) and to activate T cells. In this study, the safety and efficacy of this LV vaccine (LV-SMENP) will be investigated.
+In December 2019, viral pneumonia caused by a novel beta-coronavirus (Covid-19) broke out in Wuhan, China. Some patients
+rapidly progressed and suffered severe acute respiratory failure and died, making it imperative to develop a safe and
+effective vaccine to treat and prevent severe Covid-19 pneumonia. Based on detailed analysis of the viral genome and search
+for potential immunogenic targets, a synthetic minigene has been engineered based on conserved domains of the viral structural
+proteins and a polyprotein protease. The infection of Covid-19 is mediated through binding of the Spike protein to the ACEII
+receptor, and the viral replication depends on molecular mechanisms of all of these viral proteins. This trial proposes to
+develop and test innovative Covid-19 minigenes engineered based on multiple viral genes, using an efficient lentiviral vector
+system (NHP/TYF) to express viral proteins and immune modulatory genes to modify dendritic cells (DCs) and to activate T
+cells. In this study, the safety and efficacy of this LV vaccine (LV-SMENP) will be investigated.
 --------------------------------------------------------------------------------
 
 Brief Title: Safety and Immunogenicity Study of 2019-nCoV Vaccine (mRNA-1273) to Prevent SARS-CoV-2 Infection
@@ -38,7 +46,14 @@ The anticipated completion date is June 1, 2021.
 The trial is NIH sponsored, and the lead sponsor is National Institute of Allergy and Infectious Diseases (NIAID).
 
 Brief description of Trial: 
-This is a phase I, open-label, dose ranging clinical trial in males and non-pregnant females, 18 to 55 years of age, inclusive, who are in good health and meet all eligibility criteria. This clinical trial is designed to assess the safety, reactogenicity and immunogenicity of mRNA-1273 manufactured by ModernaTX, Inc. mRNA-1273 is a novel lipid nanoparticle (LNP)-encapsulated mRNA-based vaccine that encodes for a full-length, prefusion stabilized spike (S) protein of 2019-novel coronavirus (nCoV). Enrollment will occur at one domestic site. Forty-five subjects will be enrolled into one of three cohorts and will receive an intramuscular (IM) injection of mRNA-1273 on Days 1 and 29 in the deltoid muscle. Subjects will be followed through 12 months post second vaccination (Day 394). The primary objective is to evaluate the safety and reactogenicity of a 2-dose vaccination schedule of mRNA-1273, given 28 days apart, across 3 dosages in healthy adults.
+This is a phase I, open-label, dose ranging clinical trial in males and non-pregnant females, 18 to 55 years of age,
+inclusive, who are in good health and meet all eligibility criteria. This clinical trial is designed to assess the safety,
+reactogenicity and immunogenicity of mRNA-1273 manufactured by ModernaTX, Inc. mRNA-1273 is a novel lipid nanoparticle (LNP)
+-encapsulated mRNA-based vaccine that encodes for a full-length, prefusion stabilized spike (S) protein of 2019-novel 
+coronavirus (nCoV). Enrollment will occur at one domestic site. Forty-five subjects will be enrolled into one of three cohorts
+and will receive an intramuscular (IM) injection of mRNA-1273 on Days 1 and 29 in the deltoid muscle. Subjects will be
+followed through 12 months post second vaccination (Day 394). The primary objective is to evaluate the safety and
+reactogenicity of a 2-dose vaccination schedule of mRNA-1273, given 28 days apart, across 3 dosages in healthy adults.
 --------------------------------------------------------------------------------
 
 Brief Title: Phase I Clinical Trial in Healthy Adult
@@ -52,11 +67,14 @@ The anticipated completion date is December 20, 2022.
 The trial is INDUSTRY sponsored, and the lead sponsor is CanSino Biologics Inc..
 
 Brief description of Trial: 
-The 2019 novel-coronavirus (2019-nCov) is the cause of a cluster of unexplained pneumonia that started in Hubei province in China. It has manifest into a global health crisis with escalating confirmed cases and spread across many countries.
+The 2019 novel-coronavirus (2019-nCov) is the cause of a cluster of unexplained pneumonia that started in Hubei province in
+China. It has manifest into a global health crisis with escalating confirmed cases and spread across many countries.
 
-In view of the fact that there is currently no effective antiviral therapy, the prevention or treatment of diseases caused by COVID-19 can be tough for current treatment.
+In view of the fact that there is currently no effective antiviral therapy, the prevention or treatment of diseases caused by
+COVID-19 can be tough for current treatment.
 
-This study is a phase I clinical trial. The investigators intent to evaluate the safety, reactogenicity and immunogenicity of Recombinant Novel Coronavirus Vaccine (Adenovirus Type 5 Vector) .
+This study is a phase I clinical trial. The investigators intent to evaluate the safety, reactogenicity and immunogenicity of
+Recombinant Novel Coronavirus Vaccine (Adenovirus Type 5 Vector) .
 --------------------------------------------------------------------------------
 
 Brief Title: Sero-epidemiological Survey of England in 2019/2020
@@ -70,7 +88,15 @@ The anticipated completion date is November 30, 2020.
 The trial is OTHER sponsored, and the lead sponsor is University of Oxford.
 
 Brief description of Trial: 
-This is a pilot study to assess the feasibility of establishing a national seroepidemiological survey in England in individuals aged 0-24 years, focusing on Diphtheria, Group C invasive Meningococcal disease and novel coronavirus (COVID-19). The investigators are aiming to recruit 2300 individuals and the investigators are aiming to ensure that sample is broadly representative of the region according to IMD (Index of Multiple Deprivation scores). The PHE generated a list of all postcodes in recruiting regions and determining the quintiles of IMD within that region. Participants interested in taking part in the study will contact sites to arrange a visits. Basic demographic characteristics will be collected by questionnaire and/ or case report form (CRF) and will include : DOB, gender, GP details, Ethnic group, association with communities of special interest, household income and vaccination history. One study visit will be conducted by research study staff and blood sampling will be carried out in line with local SOP
+This is a pilot study to assess the feasibility of establishing a national seroepidemiological survey in England in 
+individuals aged 0-24 years, focusing on Diphtheria, Group C invasive Meningococcal disease and novel coronavirus (COVID-19). 
+The investigators are aiming to recruit 2300 individuals and the investigators are aiming to ensure that sample is broadly 
+representative of the region according to IMD (Index of Multiple Deprivation scores). The PHE generated a list of all 
+postcodes in recruiting regions and determining the quintiles of IMD within that region. Participants interested in taking 
+part in the study will contact sites to arrange a visits. Basic demographic characteristics will be collected by questionnaire 
+and/ or case report form (CRF) and will include : DOB, gender, GP details, Ethnic group, association with communities of 
+special interest, household income and vaccination history. One study visit will be conducted by research study staff and 
+blood sampling will be carried out in line with local SOP
 --------------------------------------------------------------------------------
 
 Brief Title: NO Prevention of COVID-19 for Healthcare Providers
@@ -84,14 +110,18 @@ The anticipated completion date is March 20, 2022.
 The trial is OTHER sponsored, and the lead sponsor is Massachusetts General Hospital.
 
 Brief description of Trial: 
-Thousands of healthcare workers have been infected with SARS-CoV-2 and contracted COVID-19 despite their best efforts to prevent contamination. No proven vaccine is available to protect healthcare workers against SARS-CoV-2.
+Thousands of healthcare workers have been infected with SARS-CoV-2 and contracted COVID-19 despite their best efforts to 
+prevent contamination. No proven vaccine is available to protect healthcare workers against SARS-CoV-2.
 
-This study will enroll 260 healthcare professionals dedicated to care for patients with proven SARS-CoV-2 infection. Subjects will be randomized either in the observational (control) group or in the inhaled nitric oxide group. All personnel will observe measures on strict precaution in accordance with WHO and the CDC regulations.
+This study will enroll 260 healthcare professionals dedicated to care for patients with proven SARS-CoV-2 infection. Subjects 
+will be randomized either in the observational (control) group or in the inhaled nitric oxide group. All personnel will 
+observe measures on strict precaution in accordance with WHO and the CDC regulations.
 --------------------------------------------------------------------------------
 
 Brief Title: Anti-SARS-CoV-2 Inactivated Convalescent Plasma in the Treatment of COVID-19
 
-Official Title: The Efficacy and Safety of Anti-SARS-CoV-2 Inactivated Convalescent Plasma in the Treatment of Novel Coronavirus Pneumonia Patient (COVID-19) : An Observational Study
+Official Title: The Efficacy and Safety of Anti-SARS-CoV-2 Inactivated Convalescent Plasma in the Treatment of Novel 
+Coronavirus Pneumonia Patient (COVID-19) : An Observational Study
 Trial Phase: Not a clinical trial
 Intervention Name: No intervention
 Organization: Shanghai Public Health Clinical Center
@@ -100,12 +130,16 @@ The anticipated completion date is December 31, 2020.
 The trial is OTHER_GOV sponsored, and the lead sponsor is Shanghai Public Health Clinical Center.
 
 Brief description of Trial: 
-There is still no effective antiviral drugs and vaccines against SARS-CoV-2 yet now. This is an obsevational study, the investigators collected the clinical information and clinical outcomes of the COVID-19 patients using anti-2019-nCoV inactivated convalescent plasma.The study is to evaluate the efficacy and safety of anti-2019-nCoV inactivated convalescent plasma in the treatment of COVID-19 pneumonia.
+There is still no effective antiviral drugs and vaccines against SARS-CoV-2 yet now. This is an obsevational study, the 
+investigators collected the clinical information and clinical outcomes of the COVID-19 patients using anti-2019-nCoV 
+inactivated convalescent plasma.The study is to evaluate the efficacy and safety of anti-2019-nCoV inactivated convalescent 
+plasma in the treatment of COVID-19 pneumonia.
 --------------------------------------------------------------------------------
 
 Brief Title: Adaptive COVID-19 Treatment Trial
 
-Official Title: A Multicenter, Adaptive, Randomized Blinded Controlled Trial of the Safety and Efficacy of Investigational Therapeutics for the Treatment of COVID-19 in Hospitalized Adults
+Official Title: A Multicenter, Adaptive, Randomized Blinded Controlled Trial of the Safety and Efficacy of Investigational 
+Therapeutics for the Treatment of COVID-19 in Hospitalized Adults
 Trial Phase: ['Phase 2']
 Intervention Name: Placebo, Remdesivir
 Organization: National Institute of Allergy and Infectious Diseases (NIAID)
@@ -114,4 +148,18 @@ The anticipated completion date is April 1, 2023.
 The trial is NIH sponsored, and the lead sponsor is National Institute of Allergy and Infectious Diseases (NIAID).
 
 Brief description of Trial: 
-This study is an adaptive, randomized, double-blind, placebo-controlled trial to evaluate the safety and efficacy of novel therapeutic agents in hospitalized adult patients diagnosed with COVID-19. The study is a multicenter trial that will be conducted in up to 50 sites globally. The study will be a series of 2-arm comparisons between different investigational therapeutic agents and a placebo. There will be interim monitoring to introduce new arms and allow early stopping for futility, efficacy, or safety. If one therapy proves to be efficacious, this treatment will then become the control arm for comparison(s) with new experimental treatment(s). Because of the possibility that background standards of supportive care may evolve/improve over time as more is learned about successful management of COVID-19, comparisons of safety and efficacy will be based on data from concurrently randomized participants. An independent data and safety monitoring board (DSMB) will actively monitor interim data to make recommendations about early study closure or changes to study arms. Randomization will be stratified by: 1) site and 2) severity of illness at enrollment, severe disease (requiring mechanical ventilation or oxygen, a SpO2 </= 94% or tachypnea (respiratory rate >/= 24 breaths/min)) or mild-moderate disease (SpO2 > 94% and respiratory rate < 24 breaths/min without supplemental oxygen)). Subjects will be assessed daily while hospitalized. Discharged patients will be asked to attend study visits at Days 15, and 29. All subjects will undergo a series of efficacy, safety, and laboratory assessments. The primary objective of the study is to evaluate the clinical efficacy of different investigational therapeutics relative to the control arm in patients hospitalized with COVID-19.
+This study is an adaptive, randomized, double-blind, placebo-controlled trial to evaluate the safety and efficacy of novel 
+therapeutic agents in hospitalized adult patients diagnosed with COVID-19. The study is a multicenter trial that will be 
+conducted in up to 50 sites globally. The study will be a series of 2-arm comparisons between different investigational 
+therapeutic agents and a placebo. There will be interim monitoring to introduce new arms and allow early stopping for 
+futility, efficacy, or safety. If one therapy proves to be efficacious, this treatment will then become the control arm for 
+comparison(s) with new experimental treatment(s). Because of the possibility that background standards of supportive care may 
+evolve/improve over time as more is learned about successful management of COVID-19, comparisons of safety and efficacy will 
+be based on data from concurrently randomized participants. An independent data and safety monitoring board (DSMB) will 
+actively monitor interim data to make recommendations about early study closure or changes to study arms. Randomization will 
+be stratified by: 1) site and 2) severity of illness at enrollment, severe disease (requiring mechanical ventilation or 
+oxygen, a SpO2 </= 94% or tachypnea (respiratory rate >/= 24 breaths/min)) or mild-moderate disease (SpO2 > 94% and 
+respiratory rate < 24 breaths/min without supplemental oxygen)). Subjects will be assessed daily while hospitalized. 
+Discharged patients will be asked to attend study visits at Days 15, and 29. All subjects will undergo a series of efficacy, 
+safety, and laboratory assessments. The primary objective of the study is to evaluate the clinical efficacy of different 
+investigational therapeutics relative to the control arm in patients hospitalized with COVID-19.
