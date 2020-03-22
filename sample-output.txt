@@ -1,4 +1,35 @@
-totaly records returned: 8
+totaly records returned: 100
+==============================
+Brief Title: Various Combination of Protease Inhibitors, Oseltamivir, Favipiravir, and Chloroquin for Treatment of COVID19 : A Randomized Control Trial
+
+Official Title: A 6 Week Prospective, Open Label, Randomized, in Multicenter Study of, Oseltamivir Plus Chloroquine Versus Lopipinavir/ Ritonavir Plus Oseltamivir Versus Darunavir/ Ritonavir Plus Oseltamivir Plus Chloroquine in Mild COVID19 AND Lopipinavir/ Ritonavir Plus Oseltamivir Versus Favipiravir Plus Lopipinavir / Ritonavir Versus Darunavir/ Ritonavir Plus Oseltamivir Plus Chloroquine Versus Favipiravir Plus Darunavir and Ritonavir Plus Chloroquine in Moderate to Critically Ill COVID19
+Trial Phase: ['Phase 3']
+Intervention Name: Oral
+Organization: Rajavithi Hospital
+As of March 10, 2020 the current status for this trial is 'Not yet recruiting', which began on March 15, 2020
+The anticipated completion date is November 30, 2020.
+The trial is OTHER_GOV sponsored, and the lead sponsor is Rajavithi Hospital.
+
+Brief description of Trial: 
+A 6-Week Prospective, Open label, Randomized, in Multicenter Study of, Oseltamivir 300mg per day plus Chloroquin 1000 mg per day versus Combination of Lopipinavir 10 mg/kg and Ritonavir 2.5 mg/kg plus Oseltamivir 4-6 mg /kg versus Combination of Darunavir 400 mg every 8 hours ritonavir Ritonavir 2.5 mg/kg plus Oseltamivir 4-6 mg /kg plus Chloroquine 500 mg per day in mild COVID 19 and Combination of Lopipinavir 10 mg/kg and Ritonavir 2.5 mg/kg plus Oseltamivir 4-6 mg /kg versus Favipiravir 2400 mg, 2400 mg, and 1200 mg every 8 h on day 1, and a maintenance dose of 1200 mg twice a day plus Lopipinavir 10 mg/kg and Ritonavir 2.5 mg/kg versus Combination of Darunavir 400 mg every 8 hours ritonavir Ritonavir 2.5 mg/kg plus Oseltamivir 4-6 mg /kg plus Chloroquine 500 mg per day versus Favipiravir 2400 mg, 2400 mg, and 1200 mg every 8 h on day 1, and a maintenance dose of 1200 mg twice a day plus Darunavir 400 mg every 8 hours ritonavir Ritonavir 2.5 mg/kg plus Chloroquine 500 mg per day in moderate to critically illness in COVID 19
+--------------------------------------------------------------------------------
+
+Brief Title: Clinical Performance of the VivaDiag ™ COVID-19 lgM / IgG Rapid Test in Early Detecting the Infection of COVID-19
+
+Official Title: Clinical Performance of the VivaDiag ™ COVID-19 lgM / IgG Rapid Test in a Cohort of Negative Patients for Coronavirus Infection for the Early Detection of Positive Antibodies for COVID-19
+Trial Phase: ['Not Applicable']
+Intervention Name: VivaDiag™ COVID-19 lgM/IgG Rapid Test
+Organization: Centro Studi Internazionali, Italy
+As of March 19, 2020 the current status for this trial is 'Not yet recruiting', which began on March 2020
+The anticipated completion date is November 2020.
+The trial is NETWORK sponsored, and the lead sponsor is Centro Studi Internazionali, Italy.
+
+Brief description of Trial: 
+This study aim to evaluate the immune response of negative patients during a COVID-19 outbreak.
+
+Patients are serially tested with a VivaDiag ™ COVID-19 lgM / IgG Rapid Test to evaluate the immune response in negative patients and the reliability of the test in those patients who develop clinical signs of COVID-19 during the trial.
+--------------------------------------------------------------------------------
+
 Brief Title: Safety and Immunity of Covid-19 aAPC Vaccine
 
 Official Title: Safety and Immunity Evaluation of A Covid-19 Coronavirus Artificial Antigen Presenting Cell Vaccine
@@ -13,90 +44,64 @@ Brief description of Trial:
 In December 2019, viral pneumonia (Covid-19) caused by a novel beta-coronavirus (SARS-CoV-2) broke out in Wuhan, China. Some patients rapidly progressed and suffered severe acute respiratory failure and died, making it imperative to develop a safe and effective vaccine to treat and prevent severe Covid-19 pneumonia. Based on detailed analysis of the viral genome and search for potential immunogenic targets, a synthetic minigene has been engineered based on conserved domains of the viral structural proteins and a polyprotein protease. The infection of Covid-19 is mediated through binding of the Spike protein to the ACEII receptor, and the viral replication depends on molecular mechanisms of all of these viral proteins. This trial proposes to develop universal vaccine and test innovative Covid-19 minigenes engineered based on multiple viral genes, using an efficient lentiviral vector system (NHP/TYF) to express viral proteins and immune modulatory genes to modify artificial antigen presenting cells (aAPC) and to activate T cells. In this study, the safety and immune reactivity of this aAPC vaccine will be investigated.
 --------------------------------------------------------------------------------
 
-Brief Title: Immunity and Safety of Covid-19 Synthetic Minigene Vaccine
+Brief Title: The Use PUL-042 Inhalation Solution to Prevent COVID-19 in Adults Exposed to SARS-CoV-2
 
-Official Title: Phase I/II Multicenter Trial of Lentiviral Minigene Vaccine (LV-SMENP) of Covid-19 Coronavirus
-Trial Phase: ['Phase 1', 'Phase 2']
-Intervention Name: Injection and infusion of LV-SMENP-DC vaccine and antigen-specific CTLs
-Organization: Shenzhen Geno-Immune Medical Institute
-As of March 17, 2020 the current status for this trial is 'Recruiting', which began on March 24, 2020
-The anticipated completion date is December 31, 2024.
-The trial is OTHER sponsored, and the lead sponsor is Shenzhen Geno-Immune Medical Institute.
+Official Title: A Phase 2 Multiple Dose Study to Evaluate the Efficacy and Safety of PUL-042 Inhalation Solution in Reducing COVID-19 Infection in Adults Exposed to COVID-19
+Trial Phase: ['Phase 2']
+Intervention Name: PUL-042 Inhalation Solution, Placebo
+Organization: Pulmotect, Inc.
+As of March 16, 2020 the current status for this trial is 'Not yet recruiting', which began on April 2020
+The anticipated completion date is October 2020.
+The trial is INDUSTRY sponsored, and the lead sponsor is Pulmotect, Inc..
 
 Brief description of Trial: 
-In December 2019, viral pneumonia caused by a novel beta-coronavirus (Covid-19) broke out in Wuhan, China. Some patients
-rapidly progressed and suffered severe acute respiratory failure and died, making it imperative to develop a safe and
-effective vaccine to treat and prevent severe Covid-19 pneumonia. Based on detailed analysis of the viral genome and search
-for potential immunogenic targets, a synthetic minigene has been engineered based on conserved domains of the viral structural
-proteins and a polyprotein protease. The infection of Covid-19 is mediated through binding of the Spike protein to the ACEII
-receptor, and the viral replication depends on molecular mechanisms of all of these viral proteins. This trial proposes to
-develop and test innovative Covid-19 minigenes engineered based on multiple viral genes, using an efficient lentiviral vector
-system (NHP/TYF) to express viral proteins and immune modulatory genes to modify dendritic cells (DCs) and to activate T
-cells. In this study, the safety and efficacy of this LV vaccine (LV-SMENP) will be investigated.
+Subjects who have documented exposure to SARS-CoV-2 (COVID-19) and test negative for SARS-CoV-2 infection will receive 4 doses of PUL-042 Inhalation Solution or 4 doses of a placebo solution by inhalation over 2 weeks. Subjects must be under quarantine in a controlled facility or hospital (home quarantine is not sufficient). Subjects will be under observation and tested for infection with SARS-CoV-2 over a 14 day period.
 --------------------------------------------------------------------------------
 
-Brief Title: Safety and Immunogenicity Study of 2019-nCoV Vaccine (mRNA-1273) to Prevent SARS-CoV-2 Infection
+Brief Title: Treatment of COVID-19 Patients Using Wharton's Jelly-Mesenchymal Stem Cells
 
-Official Title: Phase I, Open-Label, Dose-Ranging Study of the Safety and Immunogenicity of 2019-nCoV Vaccine (mRNA-1273) in Healthy Adults
+Official Title: Treatment of COVID-19 Patients Using Wharton's Jelly-Mesenchymal Stem Cells
 Trial Phase: ['Phase 1']
-Intervention Name: mRNA-1273
-Organization: National Institute of Allergy and Infectious Diseases (NIAID)
-As of March 19, 2020 the current status for this trial is 'Recruiting', which began on March 3, 2020
-The anticipated completion date is June 1, 2021.
-The trial is NIH sponsored, and the lead sponsor is National Institute of Allergy and Infectious Diseases (NIAID).
+Intervention Name: WJ-MSCs
+Organization: Stem Cells Arabia
+As of March 15, 2020 the current status for this trial is 'Recruiting', which began on March 16, 2020
+The anticipated completion date is September 30, 2020.
+The trial is OTHER sponsored, and the lead sponsor is Stem Cells Arabia.
 
 Brief description of Trial: 
-This is a phase I, open-label, dose ranging clinical trial in males and non-pregnant females, 18 to 55 years of age,
-inclusive, who are in good health and meet all eligibility criteria. This clinical trial is designed to assess the safety,
-reactogenicity and immunogenicity of mRNA-1273 manufactured by ModernaTX, Inc. mRNA-1273 is a novel lipid nanoparticle (LNP)
--encapsulated mRNA-based vaccine that encodes for a full-length, prefusion stabilized spike (S) protein of 2019-novel 
-coronavirus (nCoV). Enrollment will occur at one domestic site. Forty-five subjects will be enrolled into one of three cohorts
-and will receive an intramuscular (IM) injection of mRNA-1273 on Days 1 and 29 in the deltoid muscle. Subjects will be
-followed through 12 months post second vaccination (Day 394). The primary objective is to evaluate the safety and
-reactogenicity of a 2-dose vaccination schedule of mRNA-1273, given 28 days apart, across 3 dosages in healthy adults.
+The purpose of this study is to investigate the potential use of Wharton's Jelly Mesenchymal stem cells (WJ-MSCs) for treatment of patient diagnosed with Corona Virus SARS-CoV-2 infection, and showing symptoms of COVID-19.
 --------------------------------------------------------------------------------
 
-Brief Title: Phase I Clinical Trial in Healthy Adult
+Brief Title: Treatment of Mild Cases and Chemoprophylaxis of Contacts as Prevention of the COVID-19 Epidemic
 
-Official Title: A Single-center,Open-label，Dose-escalating Phase I Clinical Trial to Evaluate Recombinant Novel Coronavirus Vaccine (Adenovirus Type 5 Vector) in Healthy Adults Aged 18-60 Years Old
-Trial Phase: ['Phase 1']
-Intervention Name: Recombinant Novel Coronavirus Vaccine (Adenovirus Type 5 Vector)
-Organization: CanSino Biologics Inc.
-As of March 17, 2020 the current status for this trial is 'Not yet recruiting', which began on March 19, 2020
-The anticipated completion date is December 20, 2022.
-The trial is INDUSTRY sponsored, and the lead sponsor is CanSino Biologics Inc..
+Official Title: Antiviral Treatment of COVID-19 Confirmed Cases and Ring Chloroquine Chemoprevention in Close Contacts: a Cluster Randomized Clinical Trial
+Trial Phase: ['Phase 3']
+Intervention Name: Antiviral treatment and prophylaxis, Standard Public Health measures
+Organization: Lihir Medical Centre
+As of March 13, 2020 the current status for this trial is 'Not yet recruiting', which began on March 15, 2020
+The anticipated completion date is July 15, 2020.
+The trial is OTHER sponsored, and the lead sponsor is Lihir Medical Centre.
 
 Brief description of Trial: 
-The 2019 novel-coronavirus (2019-nCov) is the cause of a cluster of unexplained pneumonia that started in Hubei province in
-China. It has manifest into a global health crisis with escalating confirmed cases and spread across many countries.
+The investigators plan to evaluate the efficacy of the 'test and treat' strategy of infected patients and prophylactic chloroquine treatment to all contacts. The strategy entails decentralized COVID-19 testing and starting antiviral darunavir/cobicistat plus chloroquine treatment immediately in all who are found to be infected. As viral loads decline to undetectable levels, the probability of onward transmission is reduced to very low levels. Such evaluation will require prospective surveillance to assess the population-level effect of transmission prevention.
 
-In view of the fact that there is currently no effective antiviral therapy, the prevention or treatment of diseases caused by
-COVID-19 can be tough for current treatment.
-
-This study is a phase I clinical trial. The investigators intent to evaluate the safety, reactogenicity and immunogenicity of
-Recombinant Novel Coronavirus Vaccine (Adenovirus Type 5 Vector) .
+Drug interventions in this protocol will follow the Spanish law about off-label use of medicines.
 --------------------------------------------------------------------------------
 
-Brief Title: Sero-epidemiological Survey of England in 2019/2020
+Brief Title: Chloroquine Prevention of Coronavirus Disease (COVID-19) in the Healthcare Setting
 
-Official Title: Serum Testing of Representative Youngsters: Sero- Epidemiological Survey of England in 2019/2020
-Trial Phase: Not a clinical trial
-Intervention Name: venepuncture
+Official Title: Chloroquine Prevention of Coronavirus Disease (COVID-19) in the Healthcare Setting; a Randomised, Placebo-controlled Prophylaxis Study (COPCOV)
+Trial Phase: ['Not Applicable']
+Intervention Name: Chloroquine, Placebo
 Organization: University of Oxford
-As of March 6, 2020 the current status for this trial is 'Recruiting', which began on October 15, 2019
-The anticipated completion date is November 30, 2020.
+As of March 10, 2020 the current status for this trial is 'Not yet recruiting', which began on May 2020
+The anticipated completion date is May 2022.
 The trial is OTHER sponsored, and the lead sponsor is University of Oxford.
 
 Brief description of Trial: 
-This is a pilot study to assess the feasibility of establishing a national seroepidemiological survey in England in 
-individuals aged 0-24 years, focusing on Diphtheria, Group C invasive Meningococcal disease and novel coronavirus (COVID-19). 
-The investigators are aiming to recruit 2300 individuals and the investigators are aiming to ensure that sample is broadly 
-representative of the region according to IMD (Index of Multiple Deprivation scores). The PHE generated a list of all 
-postcodes in recruiting regions and determining the quintiles of IMD within that region. Participants interested in taking 
-part in the study will contact sites to arrange a visits. Basic demographic characteristics will be collected by questionnaire 
-and/ or case report form (CRF) and will include : DOB, gender, GP details, Ethnic group, association with communities of 
-special interest, household income and vaccination history. One study visit will be conducted by research study staff and 
-blood sampling will be carried out in line with local SOP
+The study is a double-blind, randomised, placebo-controlled trial that will be conducted in health care settings. After obtaining fully informed consent, the investigator will recruit healthcare workers, or other individuals at significant risk who can be followed reliably for 5 months. 10,000 participants will be recruited and the investigator predict an average of 200 participants per site in 50 sites.
+
+The participant will be randomised to receive either chloroquine or placebo (1:1 randomisation). A loading dose of 10mg base/kg, followed by 150 mg daily (250mg chloroquine phosphate salt) which will be taken for 3 months or until they are diagnosed with COVID-19. Subsequent episodes of symptomatic respiratory illness, including symptomatic COVID-19, clinical outcomes, and asymptomatic infection with the virus causing COVID-19 will be recorded during the follow-up period.
 --------------------------------------------------------------------------------
 
 Brief Title: NO Prevention of COVID-19 for Healthcare Providers
@@ -110,36 +115,622 @@ The anticipated completion date is March 20, 2022.
 The trial is OTHER sponsored, and the lead sponsor is Massachusetts General Hospital.
 
 Brief description of Trial: 
-Thousands of healthcare workers have been infected with SARS-CoV-2 and contracted COVID-19 despite their best efforts to 
-prevent contamination. No proven vaccine is available to protect healthcare workers against SARS-CoV-2.
+Thousands of healthcare workers have been infected with SARS-CoV-2 and contracted COVID-19 despite their best efforts to prevent contamination. No proven vaccine is available to protect healthcare workers against SARS-CoV-2.
 
-This study will enroll 260 healthcare professionals dedicated to care for patients with proven SARS-CoV-2 infection. Subjects 
-will be randomized either in the observational (control) group or in the inhaled nitric oxide group. All personnel will 
-observe measures on strict precaution in accordance with WHO and the CDC regulations.
+This study will enroll 260 healthcare professionals dedicated to care for patients with proven SARS-CoV-2 infection. Subjects will be randomized either in the observational (control) group or in the inhaled nitric oxide group. All personnel will observe measures on strict precaution in accordance with WHO and the CDC regulations.
 --------------------------------------------------------------------------------
 
-Brief Title: Anti-SARS-CoV-2 Inactivated Convalescent Plasma in the Treatment of COVID-19
+Brief Title: The Efficacy and Safety of Huai er in the Adjuvant Treatment of COVID-19
 
-Official Title: The Efficacy and Safety of Anti-SARS-CoV-2 Inactivated Convalescent Plasma in the Treatment of Novel 
-Coronavirus Pneumonia Patient (COVID-19) : An Observational Study
-Trial Phase: Not a clinical trial
-Intervention Name: No intervention
-Organization: Shanghai Public Health Clinical Center
-As of February 28, 2020 the current status for this trial is 'Recruiting', which began on February 1, 2020
-The anticipated completion date is December 31, 2020.
-The trial is OTHER_GOV sponsored, and the lead sponsor is Shanghai Public Health Clinical Center.
+Official Title: The Efficacy and Safety of Huai er in the Adjuvant Treatment of COVID-19: a Prospective, Multicenter, Randomized, Parallel Controlled Clinical Study
+Trial Phase: ['Phase 2', 'Phase 3']
+Intervention Name: Huaier Granule
+Organization: Tongji Hospital
+As of March 14, 2020 the current status for this trial is 'Not yet recruiting', which began on April 1, 2020
+The anticipated completion date is September 1, 2020.
+The trial is OTHER sponsored, and the lead sponsor is Tongji Hospital.
 
 Brief description of Trial: 
-There is still no effective antiviral drugs and vaccines against SARS-CoV-2 yet now. This is an obsevational study, the 
-investigators collected the clinical information and clinical outcomes of the COVID-19 patients using anti-2019-nCoV 
-inactivated convalescent plasma.The study is to evaluate the efficacy and safety of anti-2019-nCoV inactivated convalescent 
-plasma in the treatment of COVID-19 pneumonia.
+In December 2019,a new type of pneumonia caused by the coronavirus (COVID-2019) broke out in Wuhan ,China, and spreads quickly to other Chinese cities and 28 countries. More than 70000 people were infected and over 2000 people died all over the world.There is no specific drug treatment for this disease. This study is planned to observe the efficacy and safety of Huaier granule in the adjuvant treatment COVID-19.
+--------------------------------------------------------------------------------
+
+Brief Title: The Use of PUL-042 Inhalation Solution to Reduce the Severity of COVID-19 in Adults Positive for SARS-CoV-2 Infection
+
+Official Title: A Phase 2 Multiple Dose Study to Evaluate the Efficacy and Safety of PUL-042 Inhalation Solution in Reducing the Severity of COVID-19 in Adults Positive for SARS-CoV-2 Infection
+Trial Phase: ['Phase 2']
+Intervention Name: PUL-042 Inhalation Solution, Placebo
+Organization: Pulmotect, Inc.
+As of March 18, 2020 the current status for this trial is 'Not yet recruiting', which began on April 2020
+The anticipated completion date is October 2020.
+The trial is INDUSTRY sponsored, and the lead sponsor is Pulmotect, Inc..
+
+Brief description of Trial: 
+Adults who have tested positive for SARS-CoV-2 infection and are under observation or admitted to a controlled facility (such as a hospital) will receive PUL-042 Inhalation Solution or placebo up to 3 times over a one week period in addition to their normal care. Subjects will be be followed and assessed for their clinical status over a 14 day period with follow up at 28 days to see if PUL-042 Inhalation Solution improves the clinical outcome
+--------------------------------------------------------------------------------
+
+Brief Title: The Efficacy and Safety of Thalidomide Combined With Low-dose Hormones in the Treatment of Severe COVID-19
+
+Official Title: The Efficacy and Safety of Thalidomide Combined With Low-dose Hormones in the Treatment of Severe New Coronavirus (COVID-19) Pneumonia: a Prospective, Multicenter, Randomized, Double-blind, Placebo, Parallel Controlled Clinical Study
+Trial Phase: ['Phase 2']
+Intervention Name: placebo, Thalidomide
+Organization: First Affiliated Hospital of Wenzhou Medical University
+As of February 19, 2020 the current status for this trial is 'Not yet recruiting', which began on February 18, 2020
+The anticipated completion date is May 30, 2020.
+The trial is OTHER sponsored, and the lead sponsor is First Affiliated Hospital of Wenzhou Medical University.
+
+Brief description of Trial: 
+In view of the fact that there is currently no effective antiviral therapy, the prevention or treatment of lung injury caused by COVID-19 can be an alternative target for current treatment. Patients with severe COVID-19 have rapid disease progression and high mortality. There is currently no effective treatment method, which may be related to the excessive immune response caused by cytokine storm. This study will evaluate thalidomide combined with low-dose hormone adjuvant therapy for severe COVID-19 Patient effectiveness and safety.
+--------------------------------------------------------------------------------
+
+Brief Title: Tocilizumab in COVID-19 Pneumonia (TOCIVID-19)
+
+Official Title: Multicenter Study on the Efficacy and Tolerability of Tocilizumab in the Treatment of Patients With COVID-19 Pneumonia
+Trial Phase: ['Phase 2']
+Intervention Name: Tocilizumab Injection
+Organization: National Cancer Institute, Naples
+As of March 19, 2020 the current status for this trial is 'Recruiting', which began on March 19, 2020
+The anticipated completion date is December 19, 2022.
+The trial is OTHER sponsored, and the lead sponsor is National Cancer Institute, Naples.
+
+Brief description of Trial: 
+This study project includes a single-arm phase 2 study and a parallel observational cohort study, enrolling patients with COVID-19 pneumonia.
+--------------------------------------------------------------------------------
+
+Brief Title: Recombinant Human Angiotensin-converting Enzyme 2 (rhACE2) as a Treatment for Patients With COVID-19
+
+Official Title: A Randomized, Open Label, Controlled Clinical Study to Evaluate the Recombinant Human Angiotensin-converting Enzyme 2 (rhACE2) in Adult Patients With COVID-19
+Trial Phase: ['Not Applicable']
+Intervention Name: Recombinant human angiotensin-converting enzyme 2 (rhACE2)
+Organization: The First Affiliated Hospital of Guangzhou Medical University
+As of March 15, 2020 the current status for this trial is 'Withdrawn', which began on February 2020
+The anticipated completion date is April 2020.
+The trial is OTHER sponsored, and the lead sponsor is The First Affiliated Hospital of Guangzhou Medical University.
+
+Brief description of Trial: 
+This is an open label, randomized, controlled, pilot clinical study in patients with COVID-19, to obtain preliminary biologic, physiologic, and clinical data in patients with COVID-19 treated with rhACE2 or control patients, to help determine whether a subsequent Phase 2B trial is warranted.
+--------------------------------------------------------------------------------
+
+Brief Title: Hydroxychloroquine Treatment for Severe COVID-19 Pulmonary Infection (HYDRA Trial)
+
+Official Title: Hydroxychloroquine Treatment for Severe COVID-19 Respiratory Disease: Randomised Clinical Trial (HYDRA Trial)
+Trial Phase: ['Phase 3']
+Intervention Name: Hydroxychloroquine, Placebo oral tablet
+Organization: National Institute of Respiratory Diseases, Mexico
+As of March 18, 2020 the current status for this trial is 'Not yet recruiting', which began on March 23, 2020
+The anticipated completion date is March 22, 2021.
+The trial is OTHER_GOV sponsored, and the lead sponsor is National Institute of Respiratory Diseases, Mexico.
+
+Brief description of Trial: 
+Double blinded randomized clinical trial designed to evaluate the security and efficacy of hydroxychloroquine as treatment for COVID-19 severe respiratory disease. The investigators hypothesize that a 400mg per day dose of hydroxychloroquine for 10 days will reduce all-cause hospital mortality in patients with severe respiratory COVID-19 disease.
+--------------------------------------------------------------------------------
+
+Brief Title: The Efficacy and Safety of Thalidomide in the Adjuvant Treatment of Moderate New Coronavirus (COVID-19) Pneumonia
+
+Official Title: The Efficacy and Safety of Thalidomide in the Adjuvant Treatment of Moderate New Coronavirus (COVID-19) Pneumonia: a Prospective, Multicenter, Randomized, Double-blind, Placebo, Parallel Controlled Clinical Study
+Trial Phase: ['Phase 2']
+Intervention Name: thalidomide, placebo
+Organization: First Affiliated Hospital of Wenzhou Medical University
+As of February 19, 2020 the current status for this trial is 'Not yet recruiting', which began on February 20, 2020
+The anticipated completion date is June 30, 2020.
+The trial is OTHER sponsored, and the lead sponsor is First Affiliated Hospital of Wenzhou Medical University.
+
+Brief description of Trial: 
+In December 2019, Wuhan, in Hubei province, China, became the center of an outbreak of pneumonia of unknown cause. In a short time, Chinese scientists had shared the genome information of a novel coronavirus (2019-nCoV) from these pneumonia patients and developed a real-time reverse transcription PCR (real time RT-PCR) diagnostic assay.
+
+In view of the fact that there is currently no effective antiviral therapy, the prevention or treatment of lung injury caused by COVID-19 can be an alternative target for current treatment. Thalidomide has anti-inflammatory, anti-fibrotic, anti-angiogenesis, and immune regulation effects. This study is the first Prospective, Multicenter, Randomized, Double-blind, Placebo, Parallel Controlled Clinical Study at home and abroad to use immunomodulators to treat patients with COVID-19 infection.
+--------------------------------------------------------------------------------
+
+Brief Title: CD24Fc as a Non-antiviral Immunomodulator in COVID-19 Treatment
+
+Official Title: A Randomized, Double-blind, Placebo-controlled, Multi-site, Phase III Study to Evaluate the Safety and Efficacy of CD24Fc in COVID-19 Treatment
+Trial Phase: ['Phase 3']
+Intervention Name: CD24Fc, Placebo
+Organization: OncoImmune, Inc.
+As of March 19, 2020 the current status for this trial is 'Not yet recruiting', which began on May 2020
+The anticipated completion date is May 2022.
+The trial is INDUSTRY sponsored, and the lead sponsor is OncoImmune, Inc..
+
+Brief description of Trial: 
+The study is designed as a randomized, placebo-controlled, double blind, multicenter, Phase III trial to compare two COVID-19 treatment regimens in hospitalized adult subjects who are diagnosed with severe COVID 19 and absolute lymphocyte counts ≤ 800/mm^3 in peripheral blood.
+
+Arm A: CD24Fc/Best Available Treatment Arm B: placebo/ Best Available Treatment CD24Fc will be administered as single dose of 480 mg via IV infusion on Day 1. Total of 230 subjects will be enrolled and randomized in 1:1 ratio to receive CD24Fc or placebo. Serum cytokine IL-6 level will be used as stratification factor in randomization. All subjects will be treated with the best available treatment. The follow up period is 15 days.
+--------------------------------------------------------------------------------
+
+Brief Title: Immunity and Safety of Covid-19 Synthetic Minigene Vaccine
+
+Official Title: Phase I/II Multicenter Trial of Lentiviral Minigene Vaccine (LV-SMENP) of Covid-19 Coronavirus
+Trial Phase: ['Phase 1', 'Phase 2']
+Intervention Name: Injection and infusion of LV-SMENP-DC vaccine and antigen-specific CTLs
+Organization: Shenzhen Geno-Immune Medical Institute
+As of March 17, 2020 the current status for this trial is 'Recruiting', which began on March 24, 2020
+The anticipated completion date is December 31, 2024.
+The trial is OTHER sponsored, and the lead sponsor is Shenzhen Geno-Immune Medical Institute.
+
+Brief description of Trial: 
+In December 2019, viral pneumonia caused by a novel beta-coronavirus (Covid-19) broke out in Wuhan, China. Some patients rapidly progressed and suffered severe acute respiratory failure and died, making it imperative to develop a safe and effective vaccine to treat and prevent severe Covid-19 pneumonia. Based on detailed analysis of the viral genome and search for potential immunogenic targets, a synthetic minigene has been engineered based on conserved domains of the viral structural proteins and a polyprotein protease. The infection of Covid-19 is mediated through binding of the Spike protein to the ACEII receptor, and the viral replication depends on molecular mechanisms of all of these viral proteins. This trial proposes to develop and test innovative Covid-19 minigenes engineered based on multiple viral genes, using an efficient lentiviral vector system (NHP/TYF) to express viral proteins and immune modulatory genes to modify dendritic cells (DCs) and to activate T cells. In this study, the safety and efficacy of this LV vaccine (LV-SMENP) will be investigated.
+--------------------------------------------------------------------------------
+
+Brief Title: Nitric Oxide Gas Inhalation Therapy for Mild/Moderate COVID-19
+
+Official Title: Nitric Oxide Gas Inhalation Therapy in Spontaneous Breathing Patients With Mild/Moderate COVID-19: a Randomized Clinical Trial
+Trial Phase: ['Phase 2']
+Intervention Name: Nitric Oxide
+Organization: Massachusetts General Hospital
+As of March 17, 2020 the current status for this trial is 'Not yet recruiting', which began on March 13, 2020
+The anticipated completion date is April 1, 2022.
+The trial is OTHER sponsored, and the lead sponsor is Massachusetts General Hospital.
+
+Brief description of Trial: 
+The scientific community is in search for novel therapies that can help to face the ongoing epidemics of novel Coronavirus (SARS-Cov-2) originated in China in December 2019. At present, there are no proven interventions to prevent progression of the disease. Some preliminary data on SARS pneumonia suggest that inhaled Nitric Oxide (NO) could have beneficial effects on SARS-CoV-2 due to the genomic similarities between this two coronaviruses. In this study we will test whether inhaled NO therapy prevents progression in patients with mild to moderate COVID-19 disease.
+--------------------------------------------------------------------------------
+
+Brief Title: Evaluation of the Efficacy and Safety of Sarilumab in Hospitalized Patients With COVID-19
+
+Official Title: An Adaptive Phase 2/3, Randomized, Double-Blind, Placebo-Controlled Study Assessing Efficacy and Safety of Sarilumab for Hospitalized Patients With COVID-19
+Trial Phase: ['Phase 2', 'Phase 3']
+Intervention Name: Sarilumab, Placebo
+Organization: Regeneron Pharmaceuticals
+As of March 17, 2020 the current status for this trial is 'Recruiting', which began on March 16, 2020
+The anticipated completion date is March 16, 2021.
+The trial is INDUSTRY sponsored, and the lead sponsor is Regeneron Pharmaceuticals.
+
+Brief description of Trial: 
+Phase 2:
+
+The primary objective of the study is to evaluate the clinical efficacy of sarilumab relative to the control arm in adult patients hospitalized with severe COVID-19.
+
+Phase 3:
+
+The primary objective of the study is to evaluate the clinical efficacy of sarilumab relative to the control arm in adult patients hospitalized with severe or critical COVID-19.
+--------------------------------------------------------------------------------
+
+Brief Title: A Pilot Study of Sildenafil in COVID-19
+
+Official Title: A Pilot Study of Sildenafi in the Treatment of COVID-19
+Trial Phase: ['Phase 3']
+Intervention Name: Sildenafil citrate tablets
+Organization: Tongji Hospital
+As of March 14, 2020 the current status for this trial is 'Recruiting', which began on February 9, 2020
+The anticipated completion date is November 9, 2020.
+The trial is OTHER sponsored, and the lead sponsor is Tongji Hospital.
+
+Brief description of Trial: 
+Observe the efficacy and safety of G1(Sildenafil citrate tablets) in patients with COVID-19 under clinical actual diagnosis and treatment conditions
+--------------------------------------------------------------------------------
+
+Brief Title: Comparison of Lopinavir/Ritonavir or Hydroxychloroquine in Patients With Mild Coronavirus Disease (COVID-19)
+
+Official Title: Randomized Controlled Clinical Trials of Lopinavir/Ritonavir or Hydroxychloroquine in Patients With Mild Coronavirus Disease (COVID-19)
+Trial Phase: ['Phase 2']
+Intervention Name: Lopinavir/ritonavir, Hydroxychloroquine sulfate
+Organization: Asan Medical Center
+As of March 12, 2020 the current status for this trial is 'Recruiting', which began on March 11, 2020
+The anticipated completion date is May 2020.
+The trial is OTHER sponsored, and the lead sponsor is Asan Medical Center.
+
+Brief description of Trial: 
+In vitro studies revealed that lopinavir/ritonavir and hydroxychloroquine have antiviral activity against Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2). However, there is no clinical studies on the reduction of viral load in patients with COVID-19. This study investigate whether lopinavir/ritonavir or hydroxychloroquine reduces viral load from respiratory specimen in patients with mild COVID-19.
+--------------------------------------------------------------------------------
+
+Brief Title: Yinhu Qingwen Decoction for the Treatment of Mild / Common CoVID-19
+
+Official Title: Adaptive, Randomized, Single-blind, Three-arm Parallel Controlled Clinical Trial of Yinhu Qingwen Decoction in the Treatment of Mild / Common CoVID-19
+Trial Phase: ['Phase 2', 'Phase 3']
+Intervention Name: YinHu QingWen Decoction, YinHu QingWen Decoction(low dose), Chinese medicine treatment, standard western medicine treatment
+Organization: China Academy of Chinese Medical Sciences
+As of March 15, 2020 the current status for this trial is 'Active, not recruiting', which began on February 27, 2020
+The anticipated completion date is January 2021.
+The trial is OTHER sponsored, and the lead sponsor is China Academy of Chinese Medical Sciences.
+
+Brief description of Trial: 
+In December 2019, Wuhan, in Hubei province, China, became the center of an outbreak of pneumonia caused by CoVID-19, and the number of cases of infection with CoVID-19 identified in Wuhan increased markedly over the later part of January 2020, with cases identified in multiple other Provinces of China and internationally.
+
+Given no specific antiviral therapy for CoVID-19 infection and the availability of Yinhu Qingwen Decoction as a potential antiviral Chinese medicine based on vivo antiviral studies in CoVID-19, this randomized,three-arm controlled, single-blind trial will evaluate the efficacy and safety of Yinhu Qingwen Decoction (Granula) in patients hospitalized with mild or common CoVID-19 respiratory disease.
+--------------------------------------------------------------------------------
+
+Brief Title: Mesenchymal Stem Cell NestCell® to Treat Patients With Severe COVID-19 Pneumonia
+
+Official Title: Exploratory Clinical Study to Assess the Efficacy of Mesenchymal Stem Cell NestCell® to Treat Patients With Severe COVID-19 Pneumonia
+Trial Phase: ['Phase 1']
+Intervention Name: NestCell®
+Organization: Azidus Brasil
+As of March 18, 2020 the current status for this trial is 'Not yet recruiting', which began on April 2020
+The anticipated completion date is June 2020.
+The trial is INDUSTRY sponsored, and the lead sponsor is Azidus Brasil.
+
+Brief description of Trial: 
+This is an exploratory study to assess the efficacy of NestCell® (mesenchymal stem cell) to treat severe COVID-19 pneumonia.
+--------------------------------------------------------------------------------
+
+Brief Title: Fingolimod in COVID-19
+
+Official Title: Efficacy of Fingolimod in the Treatment of New Coronavirus Pneumonia (COVID-19)
+Trial Phase: ['Phase 2']
+Intervention Name: Fingolimod 0.5 mg
+Organization: First Affiliated Hospital of Fujian Medical University
+As of February 20, 2020 the current status for this trial is 'Recruiting', which began on February 22, 2020
+The anticipated completion date is July 1, 2020.
+The trial is OTHER sponsored, and the lead sponsor is First Affiliated Hospital of Fujian Medical University.
+
+Brief description of Trial: 
+Although immune-inflammatory treatment is not routinely recommended to be used for SARS-CoV-2 pneumonia, according to the pathological findings of pulmonary oedema and hyaline membrane formation, timely and appropriate use of immune modulator together with ventilator support should be considered for the severe patients to prevent ARDS development. The sphingosine-1-phosphate receptor regulators Fingolimod (FTY720) is an effective immunology modulator which has been widely used in multiple sclerosis.The aim of this study was to determine whether the efficacy of fingolimod for a novel coronavirus disease (COVID-19).
+--------------------------------------------------------------------------------
+
+Brief Title: Study to Evaluate the Safety and Antiviral Activity of Remdesivir (GS-5734™) in Participants With Severe Coronavirus Disease (COVID-19)
+
+Official Title: A Phase 3 Randomized Study to Evaluate the Safety and Antiviral Activity of Remdesivir (GS-5734™) in Participants With Severe COVID-19
+Trial Phase: ['Phase 3']
+Intervention Name: Remdesivir, Standard of Care
+Organization: Gilead Sciences
+As of March 17, 2020 the current status for this trial is 'Recruiting', which began on March 6, 2020
+The anticipated completion date is May 2020.
+The trial is INDUSTRY sponsored, and the lead sponsor is Gilead Sciences.
+
+Brief description of Trial: 
+The primary objective of this study is to evaluate the efficacy of 2 remdesivir (RDV) regimens with respect to the normalization of temperature and oxygen saturation through Day 14 in participants with severe coronavirus disease (COVID-19).
+--------------------------------------------------------------------------------
+
+Brief Title: Study to Evaluate the Safety and Antiviral Activity of Remdesivir (GS-5734™) in Participants With Moderate Coronavirus Disease (COVID-19) Compared to Standard of Care Treatment
+
+Official Title: A Phase 3 Randomized Study to Evaluate the Safety and Antiviral Activity of Remdesivir (GS-5734™) in Participants With Moderate COVID-19 Compared to Standard of Care Treatment
+Trial Phase: ['Phase 3']
+Intervention Name: Remdesivir, Standard of Care
+Organization: Gilead Sciences
+As of March 17, 2020 the current status for this trial is 'Recruiting', which began on March 15, 2020
+The anticipated completion date is May 2020.
+The trial is INDUSTRY sponsored, and the lead sponsor is Gilead Sciences.
+
+Brief description of Trial: 
+The primary objective of this study is to evaluate the efficacy of 2 remdesivir (RDV) regimens compared to standard of care (SOC), with respect to the time to discharge in participants with moderate coronavirus disease (COVID-19).
+--------------------------------------------------------------------------------
+
+Brief Title: Sars-CoV2 Seroconversion Among Front Line Medical and Paramedical Staff in Emergency, Intensive Care Units and Infectious Disease Departments During the 2020 Epidemic
+
+Official Title: Sars-CoV2 Seroconversion Among Medical and Paramedical Staff in Emergency, ICU and Infectious Disease Services During the 2020 Epidemic
+Trial Phase: ['Not Applicable']
+Intervention Name: blood sample
+Organization: Assistance Publique - Hôpitaux de Paris
+As of March 17, 2020 the current status for this trial is 'Recruiting', which began on March 16, 2020
+The anticipated completion date is October 16, 2020.
+The trial is OTHER sponsored, and the lead sponsor is Assistance Publique - Hôpitaux de Paris.
+
+Brief description of Trial: 
+The epidemic due to the Sars-CoV2 virus is spreading in France, without knowning precisely since when the virus has actually circulated on the territory. Data from China but also systematic samples taken from the passengers of the Diamond Princess boat also report almost 50% of asymptomatic forms of Covid-19. The medical and paramedical staff of the front-line services for the care of patients infected with Covid-19 are in fact potentially exposed to the risk of occupational contamination due to the large number of patients treated, including in the pre-epidemic phase. Therefore, and despite the application of standard protective measures, it is possible that a certain number of these personnel already have or will contract Covid-19 disease, including in its asymptomatic form.
+--------------------------------------------------------------------------------
+
+Brief Title: Medical Masks vs N95 Respirators for COVID-19
+
+Official Title: Medical Masks Versus N95 Respirators to Prevent 2019 Novel Coronavirus Disease (COVID-19) in Healthcare Workers: A Randomized Trial
+Trial Phase: ['Not Applicable']
+Intervention Name: Medical Mask, N95 respirator
+Organization: McMaster University
+As of March 3, 2020 the current status for this trial is 'Not yet recruiting', which began on April 1, 2020
+The anticipated completion date is January 1, 2021.
+The trial is OTHER sponsored, and the lead sponsor is McMaster University.
+
+Brief description of Trial: 
+A randomized controlled trial in which nurses will be randomized to either medical masks or N95 respirators when providing care to patients with COVID-19.
+--------------------------------------------------------------------------------
+
+Brief Title: Tetrandrine Tablets Used in the Treatment of COVID-19
+
+Official Title: Clinical Study of Tetrandrine Tablets Adjuvant Treatment With COVID-19
+Trial Phase: ['Phase 4']
+Intervention Name: Tetrandrine
+Organization: Henan Provincial People's Hospital
+As of March 13, 2020 the current status for this trial is 'Enrolling by invitation', which began on March 5, 2020
+The anticipated completion date is May 1, 2021.
+The trial is OTHER sponsored, and the lead sponsor is Henan Provincial People's Hospital.
+
+Brief description of Trial: 
+The study is expected to treat patients with mild and severe neo-coronary pneumonia through standard treatment regimens in combination with tetrandrine tablets, thereby reducing the clinical progress of some patients, improving prognosis, reducing the incidence of pulmonary fibrosis during rehabilitation, and improving patients' quality of life.
+--------------------------------------------------------------------------------
+
+Brief Title: Nitric Oxide Gas Inhalation Therapy for Mild/Moderate COVID19 Infection
+
+Official Title: Nitric Oxide Gas Inhalation Therapy in Spontaneous Breathing Patients With Mild/Moderate COVID19 Infection: a Randomized Clinical Trial
+Trial Phase: ['Phase 2']
+Intervention Name: Nitric Oxide
+Organization: Xijing Hospital
+As of March 9, 2020 the current status for this trial is 'Not yet recruiting', which began on March 1, 2020
+The anticipated completion date is February 1, 2022.
+The trial is OTHER sponsored, and the lead sponsor is Xijing Hospital.
+
+Brief description of Trial: 
+The scientific community is in search for novel therapies that can help to face the ongoing epidemics of novel Coronavirus (COVID-19) originated in China in December 2019. At present, there are no proven interventions to prevent progression of the disease. Some preliminary data on SARS pneumonia suggest that inhaled Nitric Oxide (NO) could have beneficial effects on COVID-19 due to the genomic similarities between this two coronaviruses. In this study we will test whether inhaled NO therapy prevents progression in patients with mild to moderate COVID-19 disease.
+--------------------------------------------------------------------------------
+
+Brief Title: The Clinical Study of Carrimycin on Treatment Patients With COVID-19
+
+Official Title: The Efficacy and Safety of Carrimycin Treatment in Patients With Novel Coronavirus Infectious Disease (COVID-19) : A Multicenter, Randomized, Open-controlled Study
+Trial Phase: ['Phase 4']
+Intervention Name: Carrimycin, lopinavir/ritonavir tablets or Arbidol or chloroquine phosphate, basic treatment
+Organization: Beijing YouAn Hospital
+As of February 25, 2020 the current status for this trial is 'Not yet recruiting', which began on February 23, 2020
+The anticipated completion date is February 28, 2021.
+The trial is OTHER sponsored, and the lead sponsor is Beijing YouAn Hospital.
+
+Brief description of Trial: 
+The novel coronavirus infectious disease ( COVID-19") induced by novel coronavirus(SARS-CoV-2) in December 2019 has outbreaked in Wuhan. It may lead to epidemic risk in global. As the COVID-19 is an emerging infectious disease, it has not scientifically recognized and has no effective drugs for treatment currently. Therefore, we will launch a scientific project "The efficacy and safety of carrimycin treatment in 520 patients with COVID-19 stratificated clinically: A multicenter, randomized (1:1), open-controlled (one of lopinavir/ritonavir tablets or Arbidol or chloroquine phosphate) study" . We try to establish the criteria for clinical cure and the early predictive model of COVID-19 progression. The primary efficiency outcomes were:(1) Fever to normal time (day); (2) Pulmonary inflammation resolution time (HRCT) (day); and (3)Negative conversion (%) of SARS-CoV-2 RNA at the end of treatment. The secondary efficiency outcomes and adverse events were observed.
+--------------------------------------------------------------------------------
+
+Brief Title: Treatment With Mesenchymal Stem Cells for Severe Corona Virus Disease 2019(COVID-19)
+
+Official Title: Prospective, Randomized, Multi-center Phase 2 Clinical Trial of Mesenchymal Stem Cell(MSC) for the Treatment of Severe Corona Virus Disease 2019(COVID-19)
+Trial Phase: ['Phase 1', 'Phase 2']
+Intervention Name: MSCs, Saline containing 1% Human serum albumin（solution of MSC）
+Organization: Beijing 302 Hospital
+As of March 6, 2020 the current status for this trial is 'Recruiting', which began on March 5, 2020
+The anticipated completion date is December 31, 2021.
+The trial is OTHER sponsored, and the lead sponsor is Beijing 302 Hospital.
+
+Brief description of Trial: 
+COVID-19 caused clusters of severe respiratory illness and was associated with 2% mortality. No specific anti-viral treatment exists. The mainstay of clinical management is largely symptomatic treatment, with organ support in intensive care for seriously ill patients. Cellular therapy, using mesenchymal stem cells has been shown to reduce nonproductive inflammation and affect tissue regeneration and is being evaluated in patients with ARDS. This clinical trial is to inspect the safety and efficiency of mesenchymal stem cells (MSCs) therapy for severe COVID-19.
+--------------------------------------------------------------------------------
+
+Brief Title: Randomized Controlled Trial of Losartan for Patients With COVID-19 Not Requiring Hospitalization
+
+Official Title: Randomized Controlled Trial of Losartan for Patients With COVID-19 Not Requiring Hospitalization
+Trial Phase: ['Phase 2']
+Intervention Name: Losartan, Placebo
+Organization: University of Minnesota
+As of March 13, 2020 the current status for this trial is 'Not yet recruiting', which began on March 16, 2020
+The anticipated completion date is April 1, 2021.
+The trial is OTHER sponsored, and the lead sponsor is University of Minnesota.
+
+Brief description of Trial: 
+This is a multi-center, double-blinded study of COVID-19 infected patients randomized 1:1 to daily losartan or placebo for 10 days or treatment failure (hospital admission).
+--------------------------------------------------------------------------------
+
+Brief Title: Bevacizumab in Severe or Critical Patients With COVID-19 Pneumonia-RCT
+
+Official Title: The Efficacy and Safety of Bevacizumab in Severe or Critical Patients With COVID-19 Pneumonia--a Multi-Centered Randomized ControlledClinical Trial
+Trial Phase: ['Not Applicable']
+Intervention Name: Bevacizumab
+Organization: Qilu Hospital of Shandong University
+As of March 9, 2020 the current status for this trial is 'Not yet recruiting', which began on March 12, 2020
+The anticipated completion date is May 31, 2020.
+The trial is OTHER sponsored, and the lead sponsor is Qilu Hospital of Shandong University.
+
+Brief description of Trial: 
+The novel coronavirus (SARS-CoV-2) is a new strain of coronavirus found in the human body in 2019. Its infectious disease causes a public health crisis. Novel coronavirus pneumonia is a common respiratory disorder. The treatment is high respiratory oxygen therapy, noninvasive mechanical ventilation, invasive mechanical ventilation and other clinical respiratory support therapies, but there is no specific drug.
+
+Bevacizumab is a recombinant humanized monoclonal antibody. As an anti VEGF drug, bevacizumab has been used in anti-tumor treatment for nearly 20 years, and its safety is well guaranteed. Among the adverse reactions, hypertension, fatigue or fatigue, diarrhea and abdominal pain were the most frequent. The most serious adverse reactions reported were gastrointestinal perforation, hemorrhage and arterial thromboembolism, but the incidence was relatively low.
+
+In February 15, 2020, a novel coronavirus pneumonia trial was conducted in 11 patients with severe and severe new crown pneumonia. It suggested that bevacizumab plus conventional therapy was effective in treating dyspnea symptoms in patients with new coronary artery pneumonia, and no obvious adverse reactions were observed.
+
+The aim of novel coronavirus pneumonia is to investigate the efficacy and safety of bevacizumab in the treatment of severe and severe new crown pneumonia with dyspnea and diffuse pulmonary lesions. The subjects were randomly divided into intervention group and control group. On the basis of routine treatment, bevacizumab or placebo were given at the 24th hour after admission to the group. Blood gas analysis, laboratory examination and chest imaging examination were performed after administration to evaluate the effectiveness and safety of bevacizumab.
+--------------------------------------------------------------------------------
+
+Brief Title: Yinhu Qingwen Granula for the Treatment of Severe CoVID-19
+
+Official Title: An Adaptive, Randomized, Double-blind, Parallel-controlled Clinical Trial of Yinhu Qingwen Granula for the Treatment of Severe CoVID-19
+Trial Phase: ['Phase 2', 'Phase 3']
+Intervention Name: Yinhu Qingwen Granula, Yin Hu Qing Wen Granula(low does), standard medical treatment
+Organization: China Academy of Chinese Medical Sciences
+As of March 15, 2020 the current status for this trial is 'Not yet recruiting', which began on March 20, 2020
+The anticipated completion date is June 30, 2021.
+The trial is OTHER sponsored, and the lead sponsor is Zhong Wang.
+
+Brief description of Trial: 
+In December 2019, Wuhan, in Hubei province, China, became the center of an outbreak of pneumonia caused by CoVID-19, and the number of cases of infection with CoVID-19 identified in Wuhan increased markedly over the later part of January 2020, with cases identified in multiple other Provinces of China and internationally.Given no specific antiviral therapy for CoVID-19 infection and the availability of Yinhu Qingwen Granula as a potential antiviral Chinese medicine based on vivo antiviral studies in CoVID-19, this adaptive, randomized,double-blind,controlled trial will evaluate the efficacy and safety of Yinhu Qingwen Granula in patients hospitalized with severe CoVID-19.
+--------------------------------------------------------------------------------
+
+Brief Title: Stem Cell Educator Therapy Treat the Viral Inflammation Caused by Severe Acute Respiratory Syndrome Coronavirus 2
+
+Official Title: Clinical Application of Stem Cell Educator Therapy for the Treatment of Viral Inflammation Caused by Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2)
+Trial Phase: ['Phase 2']
+Intervention Name: Stem Cell Educator-Treated Mononuclear Cells Apheresis
+Organization: Tianhe Stem Cell Biotechnologies Inc.
+As of March 19, 2020 the current status for this trial is 'Not yet recruiting', which began on April 10, 2020
+The anticipated completion date is November 10, 2020.
+The trial is INDUSTRY sponsored, and the lead sponsor is Tianhe Stem Cell Biotechnologies Inc..
+
+Brief description of Trial: 
+Currently, the growing epidemic of a new coronavirus infectious disease (Covid-19) is wreaking havoc worldwide, which is caused by the severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2). SARS-CoV-2 is a RNA virus that display high similarity in both genomic and proteomic profiling with SARS-CoV that first emerged in humans in 2003 in China. Therefore, preventing and controlling the pandemic occurrences are extremely urgent as a global top priority. Due to the lack of effective antiviral drugs, patients may be treated by only addressing their symptoms such as reducing fever. Clinical autopsies from SARS-CoV-infected patients demonstrated that there were major pathological changes in the lungs, immune organs, and small systemic blood vessels with vasculitis. However, the detection of SARS-CoV were primarily found in the lung and trachea/bronchus, but was undetectable in spleen, lymph nodes, bone marrow, heart and aorta, highlighting the overreaction of immune responses induced by viral infection were really harmful, resulting in the pathogenesis of lungs, immune organs, and small systemic blood vessels. To this respect, immune modulation strategy may be potentially beneficial to enhance anti-viral immunity and efficiently reduce the viral load, improve clinical outcomes, expedite the patient recovery, and decline the rate of mortality in patients after being infected with SARS-CoV-2. Tianhe Stem Cell Biotechnologies Inc. has developed a novel globally-patented Stem Cell Educator (SCE) technology designed to reverse the autoimmune response in Type 1 diabetes (T1D), Alopecia Areata (AA) and other autoimmune diseases. SCE therapy uses human multipotent cord blood stem cells (CB-SC) from human cord blood. Their properties distinguish CB-SC from other known stem cell types, including mesenchymal stem cells (MSC) and hematopoietic stem cells (HSC). Several clinical studies show that SCE therapy functions via CB-SC induction of immune tolerance in autoimmune T cells and restore immune balance and homeostasis in patients with T1D, AA and other inflammation-associated diseases. To correct the overreaction of overreaction of immune responses, the investigators plan to treat SARS-CoV-2 patients with Stem Cell Educator therapy.
+--------------------------------------------------------------------------------
+
+Brief Title: Efficacy and Safety of Corticosteroids in COVID-19
+
+Official Title: Efficacy and Safety of Corticosteroids in COVID-19: A Prospective Randomized Controlled Trails
+Trial Phase: ['Not Applicable']
+Intervention Name: Methylprednisolone
+Organization: Beijing Chao Yang Hospital
+As of February 20, 2020 the current status for this trial is 'Recruiting', which began on February 14, 2020
+The anticipated completion date is May 30, 2020.
+The trial is OTHER sponsored, and the lead sponsor is Beijing Chao Yang Hospital.
+
+Brief description of Trial: 
+There is still controversy about the effective of glucocorticoids for the treatment of novel coronavirus pneumonia. This is a prospective randomized controlled trails. The aim is to explore the effectiveness and safety of glucocorticoids in the treatment of novel coronavirus pneumonia.
+--------------------------------------------------------------------------------
+
+Brief Title: The Effect of T89 on Improving Oxygen Saturation and Clinical Symptoms in Patients With COVID-19
+
+Official Title: A Clinical Study to Investigate the Effect of T89 on Improving Oxygen Saturation and Clinical Symptoms in Patients With Coronavirus Disease 2019 (COVID-19)
+Trial Phase: ['Not Applicable']
+Intervention Name: T89
+Organization: Tasly Pharmaceuticals, Inc.
+As of February 24, 2020 the current status for this trial is 'Not yet recruiting', which began on February 26, 2020
+The anticipated completion date is September 15, 2020.
+The trial is INDUSTRY sponsored, and the lead sponsor is Tasly Pharmaceuticals, Inc..
+
+Brief description of Trial: 
+This is an open-label, randomized, blank-controlled treatment clinical study. The objective of this study is to investigate the effect of T89 on improving oxygen saturation and clinical symptoms in patients with Coronavirus Disease 2019 (COVID-19). In this study, estimated total of 120-240 male and female patients who have been diagnosed with non-critical type of coronavirus pneumonia (COVID-19) will be enrolled and randomly assigned to one of two study groups, the T89 treatment group and the blank control group, to T89 or nothing on the base of a recommended standard treatment for up to 14 days . The primary efficacy parameters include the time to oxygen saturation recovery to normal level (≥97%), the proportion of patients with normal level of oxygen saturation after treatment, and the total duration of oxygen inhalation, oxygen flow change by time, oxygen concentration change by time during treatment.
+--------------------------------------------------------------------------------
+
+Brief Title: Blood Donor Recruitment During Epidemic of COVID-19
+
+Official Title: Blood Donor Recruitment During Epidemic of COVID-19 in Guangzhou, China
+Trial Phase: ['Not Applicable']
+Intervention Name: Questionnaire with precaution information, Experimental: Questionnaire without precaution information
+Organization: Guangzhou Blood Center
+As of March 10, 2020 the current status for this trial is 'Not yet recruiting', which began on March 12, 2020
+The anticipated completion date is April 9, 2020.
+The trial is OTHER_GOV sponsored, and the lead sponsor is Guangzhou Blood Center.
+
+Brief description of Trial: 
+In December 2019, an unknown pneumonia rapidly spread in Wuhan, China, a new coronavirus, 2019 novel coronavirus (2019-nCoV), aroused the attention of the entire world. On January 31, 2020, World Health Organization (WHO) announced the outbreak of Coronavirus Disease 2019 (COVID-19) in China as a Public Health Emergency of International Concern. The number of volunteer non-remunerated blood donors decreased because of quarantine, caring for relatives, and fear of exposure to COVID-19. Due to the blood shortage, patient blood management and cessation of elective surgery are contributing to decreased demand, but sepsis may increase requirements and significant reductions will not be possible in areas such as trauma, cancer patients, hereditary haemolytic anaemias and childbirth. Therefore, recruiting enough blood donors during the epidemic is vital for public health in China, and also worldwide. In order to assess the effects of a questionnaire on blood donor recruitment, the investigators designed two kinds of self-administered, standardized and structured questionnaires. In addition of the basic socio-demographic characteristics, one questionnaire includes the information of precautions of blood donation during epidemic, and the other dose not. The questionnaires were randomly sent to ever blood donors, and the same number of ever blood donors are coded as control.
+--------------------------------------------------------------------------------
+
+Brief Title: Evaluating the Efficacy and Safety of Bromhexine Hydrochloride Tablets Combined With Standard Treatment/ Standard Treatment in Patients With Suspected and Mild Novel Coronavirus Pneumonia (COVID-19)
+
+Official Title: Evaluating the Efficacy and Safety of Bromhexine Hydrochloride Tablets Combined With Standard Treatment/ Standard Treatment in Patients With Suspected and Mild Novel Coronavirus Pneumonia (COVID-19)
+Trial Phase: ['Not Applicable']
+Intervention Name: Bromhexine Hydrochloride Tablets, Arbidol Hydrochloride Granules, Recombinant Human Interferon α2b Spray, Favipiravir Tablets
+Organization: Second Affiliated Hospital of Wenzhou Medical University
+As of February 25, 2020 the current status for this trial is 'Enrolling by invitation', which began on February 16, 2020
+The anticipated completion date is April 30, 2020.
+The trial is OTHER sponsored, and the lead sponsor is Second Affiliated Hospital of Wenzhou Medical University.
+
+Brief description of Trial: 
+Compare the efficacy and safety of Bromhexine Hydrochloride Tablets combined with standard treatment/ standard treatment in patients with suspected and mild, or common novel coronavirus pneumonia (COVID-19).
+
+Random, open, group sequential design.
+--------------------------------------------------------------------------------
+
+Brief Title: Norwegian Coronavirus Disease 2019 Study
+
+Official Title: Norwegian Coronavirus Disease 2019 Study: An Open Labeled Randomized Controlled Pragmatic Trial to Evaluate the Antiviral Effect of Chloroquine in Adult Patients With SARS-CoV-2 Infection
+Trial Phase: ['Phase 4']
+Intervention Name: Hydroxychloroquine Sulfate
+Organization: University Hospital, Akershus
+As of March 18, 2020 the current status for this trial is 'Not yet recruiting', which began on March 23, 2020
+The anticipated completion date is March 3, 2025.
+The trial is OTHER sponsored, and the lead sponsor is University Hospital, Akershus.
+
+Brief description of Trial: 
+In the current proposal, the investigators aim to investigate the virological and clinical effects of chloroquine treatment in patients with established COVID-19 in need of hospital admission. Patients will be randomized in a 1:1 fashion to standard of care or standard of care with the addition of therapy with chloroquine.
+--------------------------------------------------------------------------------
+
+Brief Title: Trial of Treatments for COVID-19 in Hospitalized Adults
+
+Official Title: Multi-centre, Adaptive, Randomized Trial of the Safety and Efficacy of Treatments of COVID-19 in Hospitalized Adults
+Trial Phase: ['Phase 3']
+Intervention Name: Remdesivir, Lopinavir/ritonavir, Interferon Beta-1A, Standard of care
+Organization: Institut National de la Santé Et de la Recherche Médicale, France
+As of March 18, 2020 the current status for this trial is 'Not yet recruiting', which began on March 2020
+The anticipated completion date is March 2023.
+The trial is OTHER_GOV sponsored, and the lead sponsor is Institut National de la Santé Et de la Recherche Médicale, France.
+
+Brief description of Trial: 
+This study is a multi-centre, adaptive, randomized, open clinical trial of the safety and efficacy of treatments of COVID-19 in hospitalized adults. The study is a multi-centre/country trial that will be conducted in up to 50 sites globally with multiple sponsors. Adults (≥18 year-old) hospitalized for COVID- 19 with SpO2 ≤ 94% on room air OR acute respiratory failure requiring mechanical ventilation and/or supplemental oxygen will be randomized between 4 treatment arms, each to be given in addition to the usual standard of care (SoC) in the participating hospital: SoC alone versus SoC + Remdesivir versus SoC + Lopinavir/Ritonavir versus SoC + Lopinavir/Ritonavir plus interferon ß-1a. Randomization will be stratified by site and severity of illness at enrollment (moderate disease: patients NOT requiring non-invasive ventilation NOR high flow oxygen devices NOR invasive mechanical ventilation NOR ECMO and severe disease: patients requiring non-invasive ventilation OR high flow oxygen devices OR invasive mechanical ventilation OR ECMO). The interim trial results will be monitored by a Data Monitoring Committee, and if at any stage evidence emerges that any one treatment arm is definitely inferior then it will be centrally decided that that arm will be discontinued. Conversely, if good evidence emerges while the trial is continuing that some other treatment(s) should also be being evaluated then it will be centrally decided that one or more extra arms will be added while the trial is in progress. The primary objective of the study is to evaluate the clinical efficacy and safety of different investigational therapeutics relative to the control arm in patients hospitalized with COVID-19, the primary endpoint is the subject clinical status (on a 7-point ordinal scale) at day 15.
+--------------------------------------------------------------------------------
+
+Brief Title: Randomized Controlled Trial of Losartan for Patients With COVID-19 Requiring Hospitalization
+
+Official Title: Randomized Controlled Trial of Losartan for Patients With COVID-19 Requiring Hospitalization
+Trial Phase: ['Phase 2']
+Intervention Name: Losartan, Placebo
+Organization: University of Minnesota
+As of March 13, 2020 the current status for this trial is 'Not yet recruiting', which began on March 16, 2020
+The anticipated completion date is April 1, 2021.
+The trial is OTHER sponsored, and the lead sponsor is University of Minnesota.
+
+Brief description of Trial: 
+This is a multi-center, double-blinded study of COVID-19 infected patients requiring inpatient hospital admission randomized 1:1 to daily Losartan or placebo for 7 days or hospital discharge.
+--------------------------------------------------------------------------------
+
+Brief Title: Bevacizumab in Severe or Critical Patients With COVID-19 Pneumonia
+
+Official Title: A Pilot Study of Bevacizumab in the Treatment of Severe or Critical Patients With COVID-19 Pneumonia (BEST-CP)
+Trial Phase: ['Phase 2', 'Phase 3']
+Intervention Name: Bevacizumab Injection
+Organization: Qilu Hospital of Shandong University
+As of February 16, 2020 the current status for this trial is 'Recruiting', which began on February 2020
+The anticipated completion date is May 2020.
+The trial is OTHER sponsored, and the lead sponsor is Qilu Hospital of Shandong University.
+
+Brief description of Trial: 
+The novel identified coronavirus (SARS-CoV-2) in 2019 causes an nationwide outbreak as well as public health crisis in China, and expands globally. Pulmonary edema is one of the most detrimental symptoms and usually presents in severe and critical coronavirus disease (COVID-19), resulting in dyspnea, acute lung injury (ALI) ,acute respiratory distress syndrome (ARDS), and even death. Recent evidence revealed higher levels of blood Vascular Endothelial Growth Factor (VEGF) in COVID-19 patients compared with healthy controls. VEGF is considered as the most potent vascular permeability inducers. Numerous studies have revealed that VEGF was a key factor and a potential therapeutic target in ALI and ARDS. Bevacizumab, an anti-VEGF drug, approved by the FDA on February 26, 2004 and widely used in clinical oncotherapy, is a promising drug for ALI/ARDS in COVID-19 through suppression of pulmonary edema.
+--------------------------------------------------------------------------------
+
+Brief Title: Immunoregulatory Therapy for 2019-nCoV
+
+Official Title: Immunoregulatory Therapy for 2019-nCoV-induced Severe Pneumonia Patients
+Trial Phase: ['Phase 2']
+Intervention Name: PD-1 blocking antibody+standard treatment, Thymosin+standard treatment, standard treatment
+Organization: Southeast University, China
+As of February 12, 2020 the current status for this trial is 'Not yet recruiting', which began on February 10, 2020
+The anticipated completion date is October 31, 2020.
+The trial is OTHER sponsored, and the lead sponsor is Southeast University, China.
+
+Brief description of Trial: 
+Sepsis, including viral infections, are major causes of death worldwide. Studies show that in 2017, the number of sepsis patients worldwide reached as high as 48.9 million, of which 11 million patients died. Studies in China also showed that more than 1 million patients died of sepsis in 2015. Previous studies have suggested that sepsis are often secondary to excessive inflammatory response syndrome. However, treatment measures targeting excessive inflammatory response failed to effectively improve the prognosis of patients. PD-1 and PD-L1 are key mediators in T cell depletion in sepsis patients. Therefore, the investigators try to performe a clinical research to investigate the efficacy of PD-1 and thymosin in patients with severe pneumonia associated with lymphocytopenia in 2019 novel coronavirus infection.
+--------------------------------------------------------------------------------
+
+Brief Title: Washed Microbiota Transplantation for Patients With 2019-nCoV Infection
+
+Official Title: Washed Microbiota Transplantation for Patients With 2019-nCoV Infection: a Randomized, Double-blind, Placebo-controlled Study
+Trial Phase: ['Not Applicable']
+Intervention Name: washed microbiota transplantation, placebo
+Organization: The Second Hospital of Nanjing Medical University
+As of March 13, 2020 the current status for this trial is 'Withdrawn', which began on February 5, 2020
+The anticipated completion date is April 30, 2020.
+The trial is OTHER sponsored, and the lead sponsor is The Second Hospital of Nanjing Medical University.
+
+Brief description of Trial: 
+Gut dysbiosis co-exists in patients with coronavirus pneumonia. Some of these patients would develop secondary bacterial infections and antibiotic-associated diarrhea (AAD). The recent study on using washed microbiota transplantation (WMT) as rescue therapy in critically ill patients with AAD demonstrated the important clinical benefits and safety of WMT. This clinical trial aims to evaluate the outcome of WMT combining with standard therapy for patients with 2019-novel coronavirus pneumonia, especially for those patients with dysbiosis-related conditions.
+--------------------------------------------------------------------------------
+
+Brief Title: Intravenous Aviptadil for COVID-19 Associated Acute Respiratory Distress
+
+Official Title: Intravenous Aviptadil for COVID-19 Associated Acute Respiratory Distress
+Trial Phase: ['Phase 2']
+Intervention Name: Aviptadil by intravenous infusion, Aviptadil by endotracheal nebulization
+Organization: NeuroRx, Inc.
+As of March 16, 2020 the current status for this trial is 'Not yet recruiting', which began on April 2020
+The anticipated completion date is September 2020.
+The trial is INDUSTRY sponsored, and the lead sponsor is NeuroRx, Inc..
+
+Brief description of Trial: 
+Novel Corona Virus (COVID-19) is known to cause Acute Respiratory Distress Syndrome, that results in mortality in 35% - 50% of affected patients, despite intensive care and mechanical ventilation. Patients with COVID-19 induced Acute Respiratory Distress Syndrome who are admitted for intensive care including endotracheal intubation and mechanical ventilation will be treated with Aviptadil, a synthetic version of Vasoactive Intestinal Polypeptide (VIP) and compared to historical controls. Patients will be randomized to intravenous Aviptadil with escalation to nebulized Aviptadil vs. nebulized Aviptadil with escalation to intravenous Aviptadil.
+--------------------------------------------------------------------------------
+
+Brief Title: Nitric Oxide Gas Inhalation for Severe Acute Respiratory Syndrome in COVID-19.
+
+Official Title: Nitric Oxide Gas Inhalation Therapy for Severe Acute Respiratory Syndrome Due to COVID-19.
+Trial Phase: ['Phase 2']
+Intervention Name: Nitric Oxide Gas
+Organization: Xijing Hospital
+As of March 3, 2020 the current status for this trial is 'Not yet recruiting', which began on March 1, 2020
+The anticipated completion date is March 1, 2022.
+The trial is OTHER sponsored, and the lead sponsor is Xijing Hospital.
+
+Brief description of Trial: 
+The investigators will enroll 102 patients with a confirmed diagnosis of COVID-19. Patients will be randomized to receive either inhaled nitric oxide (per protocol) or placebo. ICU Standards of care will be the institution's own protocols (such as ventilation strategies and use and dose of antivirals and antimicrobials, steroids, inotropic and vasopressor agents).
+--------------------------------------------------------------------------------
+
+Brief Title: Therapy for Pneumonia Patients iInfected by 2019 Novel Coronavirus
+
+Official Title: Human Umbilical Cord Mesenchymal Stem Cells Treatment for Pneumonia Patients Infected by 2019 Novel Coronavirus
+Trial Phase: ['Not Applicable']
+Intervention Name: UC-MSCs, Placebo
+Organization: Puren Hospital Affiliated to Wuhan University of Science and Technology
+As of March 15, 2020 the current status for this trial is 'Withdrawn', which began on February 24, 2020
+The actual completion date is February 25, 2020.
+The trial is OTHER sponsored, and the lead sponsor is Puren Hospital Affiliated to Wuhan University of Science and Technology.
+
+Brief description of Trial: 
+The 2019 novel coronavirus pneumonia outbroken in Wuhan, China, which spread quickly to 26 countries worldwide and presented a serious threat to public health. It is mainly characterized by fever, dry cough, shortness of breath and breathing difficulties. Some patients may develop into rapid and deadly respiratory system injury with overwhelming inflammation in the lung. Currently, there is no effective treatment in clinical practice. The present clinical trial is to explore the safety and efficacy of Human Umbilical Cord Mesenchymal Stem Cells (UC-MSCs) therapy for novel coronavirus pneumonia patients.
+--------------------------------------------------------------------------------
+
+Brief Title: Treatment of Acute Severe 2019-nCoV Pneumonia With Immunoglobulin From Cured Patients
+
+Official Title: An Exploratory Clinical Study on the Treatment of Acute Severe 2019-nCoV Pneumonia With Immunoglobulin From Cured 2019-nCoV Pneumonia Patients
+Trial Phase: ['Not Applicable']
+Intervention Name: Immunoglobulin of cured patients, γ-Globulin
+Organization: Wuhan Union Hospital, China
+As of March 13, 2020 the current status for this trial is 'Not yet recruiting', which began on March 17, 2020
+The anticipated completion date is May 31, 2020.
+The trial is OTHER sponsored, and the lead sponsor is Wuhan Union Hospital, China.
+
+Brief description of Trial: 
+The new coronavirus pneumonia is an acute infectious pneumonia. The pathogen is a previously unknown new coronavirus, namely 2019 new coronavirus (2019 novel coronavirus, 2019 nCoV). However, there is no specific anti-viral drug. It has been found that the specific antibodies against virus antigen are produced after these patients were cured, which could block the infection of 2019 nCoV on the host cells. At present, immunoadsorption is the most direct, rapid and effective method to separate immunoglobulin from the cured patients. Therefore, the study aims to prepare the immunoglobulin from 2019-ncov pneumonia cured patients, evaluate the efficacy and safety of the immunoglobulin in 2019-ncov pneumonia cured patients on the treatment of acute severe 2019-ncov pneumonia, and provide a new strategy for the treatment of 2019-ncov pneumonia.
 --------------------------------------------------------------------------------
 
 Brief Title: Adaptive COVID-19 Treatment Trial
 
-Official Title: A Multicenter, Adaptive, Randomized Blinded Controlled Trial of the Safety and Efficacy of Investigational 
-Therapeutics for the Treatment of COVID-19 in Hospitalized Adults
+Official Title: A Multicenter, Adaptive, Randomized Blinded Controlled Trial of the Safety and Efficacy of Investigational Therapeutics for the Treatment of COVID-19 in Hospitalized Adults
 Trial Phase: ['Phase 2']
 Intervention Name: Placebo, Remdesivir
 Organization: National Institute of Allergy and Infectious Diseases (NIAID)
@@ -148,18 +739,204 @@ The anticipated completion date is April 1, 2023.
 The trial is NIH sponsored, and the lead sponsor is National Institute of Allergy and Infectious Diseases (NIAID).
 
 Brief description of Trial: 
-This study is an adaptive, randomized, double-blind, placebo-controlled trial to evaluate the safety and efficacy of novel 
-therapeutic agents in hospitalized adult patients diagnosed with COVID-19. The study is a multicenter trial that will be 
-conducted in up to 50 sites globally. The study will be a series of 2-arm comparisons between different investigational 
-therapeutic agents and a placebo. There will be interim monitoring to introduce new arms and allow early stopping for 
-futility, efficacy, or safety. If one therapy proves to be efficacious, this treatment will then become the control arm for 
-comparison(s) with new experimental treatment(s). Because of the possibility that background standards of supportive care may 
-evolve/improve over time as more is learned about successful management of COVID-19, comparisons of safety and efficacy will 
-be based on data from concurrently randomized participants. An independent data and safety monitoring board (DSMB) will 
-actively monitor interim data to make recommendations about early study closure or changes to study arms. Randomization will 
-be stratified by: 1) site and 2) severity of illness at enrollment, severe disease (requiring mechanical ventilation or 
-oxygen, a SpO2 </= 94% or tachypnea (respiratory rate >/= 24 breaths/min)) or mild-moderate disease (SpO2 > 94% and 
-respiratory rate < 24 breaths/min without supplemental oxygen)). Subjects will be assessed daily while hospitalized. 
-Discharged patients will be asked to attend study visits at Days 15, and 29. All subjects will undergo a series of efficacy, 
-safety, and laboratory assessments. The primary objective of the study is to evaluate the clinical efficacy of different 
-investigational therapeutics relative to the control arm in patients hospitalized with COVID-19.
+This study is an adaptive, randomized, double-blind, placebo-controlled trial to evaluate the safety and efficacy of novel therapeutic agents in hospitalized adult patients diagnosed with COVID-19. The study is a multicenter trial that will be conducted in up to 50 sites globally. The study will be a series of 2-arm comparisons between different investigational therapeutic agents and a placebo. There will be interim monitoring to introduce new arms and allow early stopping for futility, efficacy, or safety. If one therapy proves to be efficacious, this treatment will then become the control arm for comparison(s) with new experimental treatment(s). Because of the possibility that background standards of supportive care may evolve/improve over time as more is learned about successful management of COVID-19, comparisons of safety and efficacy will be based on data from concurrently randomized participants. An independent data and safety monitoring board (DSMB) will actively monitor interim data to make recommendations about early study closure or changes to study arms. Randomization will be stratified by: 1) site and 2) severity of illness at enrollment, severe disease (requiring mechanical ventilation or oxygen, a SpO2 </= 94% or tachypnea (respiratory rate >/= 24 breaths/min)) or mild-moderate disease (SpO2 > 94% and respiratory rate < 24 breaths/min without supplemental oxygen)). Subjects will be assessed daily while hospitalized. Discharged patients will be asked to attend study visits at Days 15, and 29. All subjects will undergo a series of efficacy, safety, and laboratory assessments. The primary objective of the study is to evaluate the clinical efficacy of different investigational therapeutics relative to the control arm in patients hospitalized with COVID-19.
+--------------------------------------------------------------------------------
+
+Brief Title: Treatment and Prevention of Traditional Chinese Medicines (TCMs) on 2019-nCoV Infection
+
+Official Title: Effects of Traditional Chinese Medicines (TCMs) on Patients With 2019-nCoV Infection: A Perspective, Open-labeled, Randomized, Controlled Trial
+Trial Phase: ['Not Applicable']
+Intervention Name: Conventional medicines (Oxygen therapy, alfa interferon via aerosol inhalation, and lopinavir/ritonavir) and Traditional Chinese Medicines (TCMs) granules, Conventional medicines (Oxygen therapy, alfa interferon via aerosol inhalation, and lopinavir/ritonavir)
+Organization: Beijing 302 Hospital
+As of January 30, 2020 the current status for this trial is 'Recruiting', which began on January 22, 2020
+The anticipated completion date is January 22, 2021.
+The trial is OTHER sponsored, and the lead sponsor is Beijing 302 Hospital.
+
+Brief description of Trial: 
+The aim of this study is to test whether Traditional Chinese Medicines (TCMs) are effective and safe for treating 2019-nCoV infection. After the enrolment of approximately 30 subjects, the recruitment will be paused, and planned interim analysis will be performed to preliminarily investigate the efficacy and safety of TCMs in patients infected with 2019-nCoV.
+--------------------------------------------------------------------------------
+
+Brief Title: Mesenchymal Stem Cell Treatment for Pneumonia Patients Infected With 2019 Novel Coronavirus
+
+Official Title: Safety and Efficiency of Mesenchymal Stem Cell in Treating Pneumonia Patients Infected With 2019 Novel Coronavirus
+Trial Phase: ['Phase 1']
+Intervention Name: MSCs
+Organization: Beijing 302 Hospital
+As of February 25, 2020 the current status for this trial is 'Recruiting', which began on January 27, 2020
+The anticipated completion date is December 2021.
+The trial is OTHER sponsored, and the lead sponsor is Beijing 302 Hospital.
+
+Brief description of Trial: 
+The 2019 novel coronavirus (2019-nCoV) infection caused clusters of severe respiratory illness similar to severe acute respiratory syndrome coronavirus and was associated with ICU admission and high mortality. There is no confirmed antivirus therapy for people infected 2019-nCoV, most of them should receive supportive care to help relieve symptoms. For severe cases, treatment should include care to support vital organ functions. This clinical trial is to inspect the safety and efficiency of Mesenchymal Stem Cells (MSCs) therapy for pneumonia patients infected with 2019-nCoV.
+--------------------------------------------------------------------------------
+
+Brief Title: Nitric Oxide Gas Inhalation in Severe Acute Respiratory Syndrome in COVID-19
+
+Official Title: Nitric Oxide Gas Inhalation Therapy for Mechanically Ventilated Patients With Severe Acute Respiratory Syndrome Caused by SARS-CoV2: a Randomized Clinical Trial.
+Trial Phase: ['Phase 2']
+Intervention Name: Nitric Oxide Gas
+Organization: Massachusetts General Hospital
+As of March 16, 2020 the current status for this trial is 'Not yet recruiting', which began on March 10, 2020
+The anticipated completion date is March 10, 2022.
+The trial is OTHER sponsored, and the lead sponsor is Massachusetts General Hospital.
+
+Brief description of Trial: 
+Severe acute respiratory syndrome (SARS-CoV2) due to novel Coronavirus (2019-nCoV) related infection (COVID-19) is characterized by severe ventilation perfusion mismatch leading to refractory hypoxemia. To date, there is no specific treatment available for 2019-nCoV. Nitric oxide is a selective pulmonary vasodilator gas used in as a rescue therapy in refractory hypoxemia due to acute respiratory distress syndrome (ARDS). In-vitro and clinical evidence indicate that inhaled nitric oxide gas (iNO) has also antiviral activity against other strains of coronavirus. The primary aim of this study is to determine whether inhaled NO improves oxygenation in patients with hypoxic SARS-CoV2. This is a multicenter single-blinded randomized controlled trial with 1:1 individual allocation
+--------------------------------------------------------------------------------
+
+Brief Title: Mild/Moderate 2019-nCoV Remdesivir RCT
+
+Official Title: A Phase 3 Randomized, Double-blind, Placebo-controlled Multicenter Study to Evaluate the Efficacy and Safety of Remdesivir in Hospitalized Adult Patients With Mild and Moderate 2019-nCoV Respiratory Disease.
+Trial Phase: ['Phase 3']
+Intervention Name: Remdesivir, Remdesivir placebo
+Organization: Capital Medical University
+As of February 20, 2020 the current status for this trial is 'Recruiting', which began on February 12, 2020
+The anticipated completion date is April 27, 2020.
+The trial is OTHER sponsored, and the lead sponsor is Capital Medical University.
+
+Brief description of Trial: 
+In December 2019, Wuhan, in Hubei province, China, became the center of an outbreak of pneumonia of unknown cause. In a short time, Chinese scientists had shared the genome information of a novel coronavirus (2019-nCoV) from these pneumonia patients and developed a real-time reverse transcription PCR (real time RT-PCR) diagnostic assay.
+
+Given no specific antiviral therapy for 2019-nCoV infection and the availability of remdesvir as a potential antiviral agent based on pre-clinical studies in SARS-CoV and MERS-CoV infections, this randomized, controlled, double blind trial will evaluate the efficacy and safety of remdesivir in patients hospitalized with mild or moderate 2019-nCoV respiratory disease.
+--------------------------------------------------------------------------------
+
+Brief Title: Umbilical Cord(UC)-Derived Mesenchymal Stem Cells(MSCs) Treatment for the 2019-novel Coronavirus(nCOV) Pneumonia
+
+Official Title: Clinical Research Regarding the Availability and Safety of UC-MSCs Treatment for Serious Pneumonia and Critical Pneumonia Caused by the 2019-nCOV Infection
+Trial Phase: ['Phase 2']
+Intervention Name: UC-MSCs
+Organization: Zhongnan Hospital
+As of February 12, 2020 the current status for this trial is 'Recruiting', which began on February 6, 2020
+The anticipated completion date is September 30, 2020.
+The trial is OTHER sponsored, and the lead sponsor is ZhiYong Peng.
+
+Brief description of Trial: 
+Serious Pneumonia and Critical Pneumonia caused by the 2019-nCOV infection greatly threats patients' life, UC-MSCs treatment has been proved to play a role in curing multiple diseases. And this study is conducted to find out whether or not it will function in 2019-nCOV infection Pneumonia.
+--------------------------------------------------------------------------------
+
+Brief Title: The Efficacy of Intravenous Immunoglobulin Therapy for Severe 2019-nCoV Infected Pneumonia
+
+Official Title: A Randomized, Open-label, Controlled, Single-center Study to Evaluate the Efficacy of Intravenous Immunoglobulin Therapy in Patients With Severe 2019- nCoV Pneumonia
+Trial Phase: ['Phase 2', 'Phase 3']
+Intervention Name: Intravenous Immunoglobulin, Standard care
+Organization: Peking Union Medical College Hospital
+As of February 6, 2020 the current status for this trial is 'Not yet recruiting', which began on February 10, 2020
+The anticipated completion date is June 30, 2020.
+The trial is OTHER sponsored, and the lead sponsor is Peking Union Medical College Hospital.
+
+Brief description of Trial: 
+In this single-center, randomized, open-label, controlled study, the investigators will evaluate the efficacy and safety of Intravenous Immunoglobulin (IVIG) in combination with standard care for severe 2019 novel coronavirus (2019-nCoV) pneumonia.
+--------------------------------------------------------------------------------
+
+Brief Title: Treatment of Pulmonary Fibrosis Due to 2019-nCoV Pneumonia With Fuzheng Huayu
+
+Official Title: A Randomized, Placebo-Controlled, Multi-Center Study on the Efficacy and Safety of Fuzheng Huayu on Pulmonary Fibrosis Due to 2019-nCoV
+Trial Phase: ['Phase 2']
+Intervention Name: N-acetylcysteine+ Fuzheng Huayu Tablet, N-acetylcysteine+Placebo
+Organization: ShuGuang Hospital
+As of February 19, 2020 the current status for this trial is 'Recruiting', which began on February 15, 2020
+The anticipated completion date is December 2022.
+The trial is OTHER sponsored, and the lead sponsor is ShuGuang Hospital.
+
+Brief description of Trial: 
+Inflammation is the early stage of fibrosis. Serious patients are more likely to develop into pulmonary fibrosis, which affects the recurrence of lung function or even threatens life and health. This study is planned to observe the efficacy and safety of Fuzheng Huayu tablets in the treatment of pulmonary fibrosis after COVID-19.
+--------------------------------------------------------------------------------
+
+Brief Title: A Prospective/Retrospective,Randomized Controlled Clinical Study of Interferon Atomization in the 2019-nCoV Pneumonia
+
+Official Title: An Open, Prospective/Retrospective, Randomized Controlled Cohort Study to Compare the Efficacy of Two Therapeutic Schemes(Abidol Hydrochloride,Abidol Hydrochloride Combined With Interferon Atomization)in the Treatment of 2019-nCoV Pneumonia.
+Trial Phase: ['Phase 4']
+Intervention Name: Abidol hydrochloride, Abidol Hydrochloride combined with Interferon atomization
+Organization: Tongji Hospital
+As of March 14, 2020 the current status for this trial is 'Recruiting', which began on February 1, 2020
+The anticipated completion date is July 1, 2020.
+The trial is OTHER sponsored, and the lead sponsor is Tongji Hospital.
+
+Brief description of Trial: 
+At present, there is no specific and effective antiviral therapy.In this study, an open, prospective/retrospective, randomized controlled cohort study was designed to compare the efficacy of two therapeutic schemes(abidol hydrochloride,abidol hydrochloride combined with interferon atomization)in the treatment of 2019-nCoV viral pneumonia, so as to provide reliable evidence-based medicine for the treatment of viral pneumonia caused by 2019-nCoV.
+--------------------------------------------------------------------------------
+
+Brief Title: A Randomized,Open,Controlled Clinical Study to Evaluate the Efficacy of ASC09F and Ritonavir for 2019-nCoV Pneumonia
+
+Official Title: A Randomized,Open,Controlled Small Sample Clinical Study to Evaluate the Efficacy and Safety of ASC09/Ritonavir Compound Tablets and Ritonavir for 2019-nCoV Pneumonia
+Trial Phase: ['Phase 3']
+Intervention Name: ASC09F+Oseltamivir, Ritonavir+Oseltamivir, Oseltamivir
+Organization: Tongji Hospital
+As of March 14, 2020 the current status for this trial is 'Recruiting', which began on February 1, 2020
+The anticipated completion date is July 1, 2020.
+The trial is OTHER sponsored, and the lead sponsor is Tongji Hospital.
+
+Brief description of Trial: 
+Based on oseltamivir treatment, evaluate the efficacy and safety of ASC09/ritonavir compound tablets(ASC09F) or ritonavir tablets for 2019-nCoV infection patients.
+--------------------------------------------------------------------------------
+
+Brief Title: A Prospective/Retrospective,Randomized Controlled Clinical Study of Antiviral Therapy in the 2019-nCoV Pneumonia
+
+Official Title: An Open, Prospective/Retrospective, Randomized Controlled Cohort Study to Compare the Efficacy of Three Antiviral Drugs(Abidol Hydrochloride, Oseltamivir and Lopinavir/Ritonavir) in the Treatment of 2019-nCoV Pneumonia.
+Trial Phase: ['Phase 4']
+Intervention Name: Abidol hydrochloride, Oseltamivir, Lopinavir/ritonavir
+Organization: Tongji Hospital
+As of March 14, 2020 the current status for this trial is 'Recruiting', which began on February 1, 2020
+The anticipated completion date is July 1, 2020.
+The trial is OTHER sponsored, and the lead sponsor is Tongji Hospital.
+
+Brief description of Trial: 
+At present, there is no specific and effective antiviral therapy.In this study, an open, prospective/retrospective, randomized controlled cohort study was designed to compare the efficacy of three antiviral drugs in the treatment of 2019-nCoV pneumonia by studying the efficacy of abidol hydrochloride, oseltamivir and lopinavir/ritonavir in the treatment of 2019-nCoV viral pneumonia, and to explore effective antiviral drugs for new coronavirus. To provide reliable evidence-based medicine basis for the treatment of viral pneumonia caused by new coronavirus infection.
+--------------------------------------------------------------------------------
+
+Brief Title: The Efficacy of Different Hormone Doses in 2019-nCoV Severe Pneumonia
+
+Official Title: An Open, Prospective/Retrospective, Randomized Controlled Cohort Study to Compare the Efficacy of Different Hormone Doses in the Treatment of 2019-nCoV Severe Pneumonia
+Trial Phase: ['Phase 4']
+Intervention Name: Methylprednisolone, Methylprednisolone
+Organization: Tongji Hospital
+As of March 14, 2020 the current status for this trial is 'Recruiting', which began on February 1, 2020
+The anticipated completion date is July 1, 2020.
+The trial is OTHER sponsored, and the lead sponsor is Tongji Hospital.
+
+Brief description of Trial: 
+At present, there is no specific and effective antiviral therapy.In this study, an open, prospective/retrospective, randomized controlled cohort study was designed to compare the efficacy of different hormone doses in the treatment of 2019-nCoV severe Pneumonia.This study explores effective treatment programs for 2019-nCoV severe pneumonia and provides a reliable evidence-based basis for the treatment.
+--------------------------------------------------------------------------------
+
+Brief Title: Post-exposure Prophylaxis for SARS-Coronavirus-2
+
+Official Title: Post-exposure Prophylaxis for SARS-Coronavirus-2: A Pragmatic Randomized Clinical Trial
+Trial Phase: ['Phase 2', 'Phase 3']
+Intervention Name: Hydroxychloroquine, Placebo
+Organization: University of Minnesota
+As of March 17, 2020 the current status for this trial is 'Recruiting', which began on March 17, 2020
+The anticipated completion date is May 2021.
+The trial is OTHER sponsored, and the lead sponsor is University of Minnesota.
+
+Brief description of Trial: 
+Study Objective: To test if post-exposure prophylaxis with hydroxychloroquine can prevent progression development of symptomatic COVID19 disease after known exposure to the SARS-CoV2 virus.
+--------------------------------------------------------------------------------
+
+Brief Title: Multicenter Clinical Study on the Efficacy and Safety of Xiyanping Injection in the Treatment of New Coronavirus Infection Pneumonia (General and Severe)
+
+Official Title: Multicenter Clinical Study on the Efficacy and Safety of Xiyanping Injection in the Treatment of New Coronavirus Infection Pneumonia (General and Severe)
+Trial Phase: ['Not Applicable']
+Intervention Name: Lopinavir / ritonavir tablets combined with Xiyanping injection, Lopinavir/ritonavir treatment
+Organization: Jiangxi Qingfeng Pharmaceutical Co. Ltd.
+As of March 3, 2020 the current status for this trial is 'Not yet recruiting', which began on March 14, 2020
+The anticipated completion date is April 14, 2021.
+The trial is INDUSTRY sponsored, and the lead sponsor is Jiangxi Qingfeng Pharmaceutical Co. Ltd..
+
+Brief description of Trial: 
+In December 2019, Wuhan, in Hubei province, China, became the center of an outbreak of pneumonia of unknown cause. In a short time, Chinese scientists had shared the genome information of a novel coronavirus (2019-nCoV) from these pneumonia patients and developed a real-time reverse transcription PCR (real time RT-PCR) diagnostic assay.
+
+In view of the fact that there is currently no effective antiviral therapy, the prevention or treatment of lung injury caused by COVID-19 can be an alternative target for current treatment. Xiyanping injection has anti-inflammatory and immune regulation effects. This study is a Randomized, Parallel Controlled Clinical Study to treat patients with COVID-19 infection.
+--------------------------------------------------------------------------------
+
+Brief Title: Safety and Immunogenicity Study of 2019-nCoV Vaccine (mRNA-1273) to Prevent SARS-CoV-2 Infection
+
+Official Title: Phase I, Open-Label, Dose-Ranging Study of the Safety and Immunogenicity of 2019-nCoV Vaccine (mRNA-1273) in Healthy Adults
+Trial Phase: ['Phase 1']
+Intervention Name: mRNA-1273
+Organization: National Institute of Allergy and Infectious Diseases (NIAID)
+As of March 19, 2020 the current status for this trial is 'Recruiting', which began on March 3, 2020
+The anticipated completion date is June 1, 2021.
+The trial is NIH sponsored, and the lead sponsor is National Institute of Allergy and Infectious Diseases (NIAID).
+
+Brief description of Trial: 
+This is a phase I, open-label, dose ranging clinical trial in males and non-pregnant females, 18 to 55 years of age, inclusive, who are in good health and meet all eligibility criteria. This clinical trial is designed to assess the safety, reactogenicity and immunogenicity of mRNA-1273 manufactured by ModernaTX, Inc. mRNA-1273 is a novel lipid nanoparticle (LNP)-encapsulated mRNA-based vaccine that encodes for a full-length, prefusion stabilized spike (S) protein of 2019-novel coronavirus (nCoV). Enrollment will occur at one domestic site. Forty-five subjects will be enrolled into one of three cohorts and will receive an intramuscular (IM) injection of mRNA-1273 on Days 1 and 29 in the deltoid muscle. Subjects will be followed through 12 months post second vaccination (Day 394). The primary objective is to evaluate the safety and reactogenicity of a 2-dose vaccination schedule of mRNA-1273, given 28 days apart, across 3 dosages in healthy adults.
