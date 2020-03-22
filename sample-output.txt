@@ -5,7 +5,7 @@ Brief Title: Various Combination of Protease Inhibitors, Oseltamivir, Favipiravi
 Official Title: A 6 Week Prospective, Open Label, Randomized, in Multicenter Study of, Oseltamivir Plus Chloroquine Versus Lopipinavir/ Ritonavir Plus Oseltamivir Versus Darunavir/ Ritonavir Plus Oseltamivir Plus Chloroquine in Mild COVID19 AND Lopipinavir/ Ritonavir Plus Oseltamivir Versus Favipiravir Plus Lopipinavir / Ritonavir Versus Darunavir/ Ritonavir Plus Oseltamivir Plus Chloroquine Versus Favipiravir Plus Darunavir and Ritonavir Plus Chloroquine in Moderate to Critically Ill COVID19
 Trial Phase: ['Phase 3']
 Intervention Name: Oral
-Outcome Measure: SARS-CoV-2 eradication time
+Study Purpose: Treatment
 Organization: Rajavithi Hospital
 As of March 10, 2020 the current status for this trial is 'Not yet recruiting', which began on March 15, 2020
 The anticipated completion date is November 30, 2020.
@@ -20,7 +20,7 @@ Brief Title: Clinical Performance of the VivaDiag ™ COVID-19 lgM / IgG Rapid T
 Official Title: Clinical Performance of the VivaDiag ™ COVID-19 lgM / IgG Rapid Test in a Cohort of Negative Patients for Coronavirus Infection for the Early Detection of Positive Antibodies for COVID-19
 Trial Phase: ['Not Applicable']
 Intervention Name: VivaDiag™ COVID-19 lgM/IgG Rapid Test
-Outcome Measure: Number of patients with constant negative results
+Study Purpose: Diagnostic
 Organization: Centro Studi Internazionali, Italy
 As of March 19, 2020 the current status for this trial is 'Not yet recruiting', which began on March 2020
 The anticipated completion date is November 2020.
@@ -37,7 +37,7 @@ Brief Title: Safety and Immunity of Covid-19 aAPC Vaccine
 Official Title: Safety and Immunity Evaluation of A Covid-19 Coronavirus Artificial Antigen Presenting Cell Vaccine
 Trial Phase: ['Phase 1']
 Intervention Name: Pathogen-specific aAPC
-Outcome Measure: Frequency of vaccine events
+Study Purpose: Treatment
 Organization: Shenzhen Geno-Immune Medical Institute
 As of March 6, 2020 the current status for this trial is 'Recruiting', which began on February 15, 2020
 The anticipated completion date is December 31, 2024.
@@ -52,7 +52,7 @@ Brief Title: The Use PUL-042 Inhalation Solution to Prevent COVID-19 in Adults E
 Official Title: A Phase 2 Multiple Dose Study to Evaluate the Efficacy and Safety of PUL-042 Inhalation Solution in Reducing COVID-19 Infection in Adults Exposed to COVID-19
 Trial Phase: ['Phase 2']
 Intervention Name: PUL-042 Inhalation Solution, Placebo
-Outcome Measure: Prevention of COVID-19
+Study Purpose: Prevention
 Organization: Pulmotect, Inc.
 As of March 16, 2020 the current status for this trial is 'Not yet recruiting', which began on April 2020
 The anticipated completion date is October 2020.
@@ -67,7 +67,7 @@ Brief Title: Treatment of COVID-19 Patients Using Wharton's Jelly-Mesenchymal St
 Official Title: Treatment of COVID-19 Patients Using Wharton's Jelly-Mesenchymal Stem Cells
 Trial Phase: ['Phase 1']
 Intervention Name: WJ-MSCs
-Outcome Measure: Clinical outcome
+Study Purpose: Treatment
 Organization: Stem Cells Arabia
 As of March 15, 2020 the current status for this trial is 'Recruiting', which began on March 16, 2020
 The anticipated completion date is September 30, 2020.
@@ -82,7 +82,7 @@ Brief Title: Treatment of Mild Cases and Chemoprophylaxis of Contacts as Prevent
 Official Title: Antiviral Treatment of COVID-19 Confirmed Cases and Ring Chloroquine Chemoprevention in Close Contacts: a Cluster Randomized Clinical Trial
 Trial Phase: ['Phase 3']
 Intervention Name: Antiviral treatment and prophylaxis, Standard Public Health measures
-Outcome Measure: Effectiveness of chemoprophylaxis assessed by incidence of secondary COVID-19 cases
+Study Purpose: Prevention
 Organization: Lihir Medical Centre
 As of March 13, 2020 the current status for this trial is 'Not yet recruiting', which began on March 15, 2020
 The anticipated completion date is July 15, 2020.
@@ -99,7 +99,7 @@ Brief Title: Chloroquine Prevention of Coronavirus Disease (COVID-19) in the Hea
 Official Title: Chloroquine Prevention of Coronavirus Disease (COVID-19) in the Healthcare Setting; a Randomised, Placebo-controlled Prophylaxis Study (COPCOV)
 Trial Phase: ['Not Applicable']
 Intervention Name: Chloroquine, Placebo
-Outcome Measure: Number of symptomatic COVID-19 infections
+Study Purpose: Prevention
 Organization: University of Oxford
 As of March 10, 2020 the current status for this trial is 'Not yet recruiting', which began on May 2020
 The anticipated completion date is May 2022.
@@ -116,7 +116,7 @@ Brief Title: NO Prevention of COVID-19 for Healthcare Providers
 Official Title: Nitric Oxide Gas Inhalation for Prevention of COVID-19 in Healthcare Providers
 Trial Phase: ['Phase 2']
 Intervention Name: Inhaled nitric oxide gas
-Outcome Measure: COVID-19 diagnosis
+Study Purpose: Prevention
 Organization: Massachusetts General Hospital
 As of March 16, 2020 the current status for this trial is 'Not yet recruiting', which began on March 20, 2020
 The anticipated completion date is March 20, 2022.
@@ -133,7 +133,7 @@ Brief Title: The Efficacy and Safety of Huai er in the Adjuvant Treatment of COV
 Official Title: The Efficacy and Safety of Huai er in the Adjuvant Treatment of COVID-19: a Prospective, Multicenter, Randomized, Parallel Controlled Clinical Study
 Trial Phase: ['Phase 2', 'Phase 3']
 Intervention Name: Huaier Granule
-Outcome Measure: Mortality rate
+Study Purpose: Treatment
 Organization: Tongji Hospital
 As of March 14, 2020 the current status for this trial is 'Not yet recruiting', which began on April 1, 2020
 The anticipated completion date is September 1, 2020.
@@ -148,7 +148,7 @@ Brief Title: The Use of PUL-042 Inhalation Solution to Reduce the Severity of CO
 Official Title: A Phase 2 Multiple Dose Study to Evaluate the Efficacy and Safety of PUL-042 Inhalation Solution in Reducing the Severity of COVID-19 in Adults Positive for SARS-CoV-2 Infection
 Trial Phase: ['Phase 2']
 Intervention Name: PUL-042 Inhalation Solution, Placebo
-Outcome Measure: Severity of COVID-19
+Study Purpose: Treatment
 Organization: Pulmotect, Inc.
 As of March 18, 2020 the current status for this trial is 'Not yet recruiting', which began on April 2020
 The anticipated completion date is October 2020.
@@ -163,7 +163,7 @@ Brief Title: The Efficacy and Safety of Thalidomide Combined With Low-dose Hormo
 Official Title: The Efficacy and Safety of Thalidomide Combined With Low-dose Hormones in the Treatment of Severe New Coronavirus (COVID-19) Pneumonia: a Prospective, Multicenter, Randomized, Double-blind, Placebo, Parallel Controlled Clinical Study
 Trial Phase: ['Phase 2']
 Intervention Name: placebo, Thalidomide
-Outcome Measure: Time to Clinical Improvement (TTCI)
+Study Purpose: Treatment
 Organization: First Affiliated Hospital of Wenzhou Medical University
 As of February 19, 2020 the current status for this trial is 'Not yet recruiting', which began on February 18, 2020
 The anticipated completion date is May 30, 2020.
@@ -178,7 +178,7 @@ Brief Title: Tocilizumab in COVID-19 Pneumonia (TOCIVID-19)
 Official Title: Multicenter Study on the Efficacy and Tolerability of Tocilizumab in the Treatment of Patients With COVID-19 Pneumonia
 Trial Phase: ['Phase 2']
 Intervention Name: Tocilizumab Injection
-Outcome Measure: One-month mortality rate
+Study Purpose: Treatment
 Organization: National Cancer Institute, Naples
 As of March 19, 2020 the current status for this trial is 'Recruiting', which began on March 19, 2020
 The anticipated completion date is December 19, 2022.
@@ -193,7 +193,7 @@ Brief Title: Recombinant Human Angiotensin-converting Enzyme 2 (rhACE2) as a Tre
 Official Title: A Randomized, Open Label, Controlled Clinical Study to Evaluate the Recombinant Human Angiotensin-converting Enzyme 2 (rhACE2) in Adult Patients With COVID-19
 Trial Phase: ['Not Applicable']
 Intervention Name: Recombinant human angiotensin-converting enzyme 2 (rhACE2)
-Outcome Measure: Time course of body temperature (fever)
+Study Purpose: Treatment
 Organization: The First Affiliated Hospital of Guangzhou Medical University
 As of March 15, 2020 the current status for this trial is 'Withdrawn', which began on February 2020
 The anticipated completion date is April 2020.
@@ -208,7 +208,7 @@ Brief Title: Hydroxychloroquine Treatment for Severe COVID-19 Pulmonary Infectio
 Official Title: Hydroxychloroquine Treatment for Severe COVID-19 Respiratory Disease: Randomised Clinical Trial (HYDRA Trial)
 Trial Phase: ['Phase 3']
 Intervention Name: Hydroxychloroquine, Placebo oral tablet
-Outcome Measure: All-cause hospital mortality
+Study Purpose: Treatment
 Organization: National Institute of Respiratory Diseases, Mexico
 As of March 18, 2020 the current status for this trial is 'Not yet recruiting', which began on March 23, 2020
 The anticipated completion date is March 22, 2021.
@@ -223,7 +223,7 @@ Brief Title: The Efficacy and Safety of Thalidomide in the Adjuvant Treatment of
 Official Title: The Efficacy and Safety of Thalidomide in the Adjuvant Treatment of Moderate New Coronavirus (COVID-19) Pneumonia: a Prospective, Multicenter, Randomized, Double-blind, Placebo, Parallel Controlled Clinical Study
 Trial Phase: ['Phase 2']
 Intervention Name: thalidomide, placebo
-Outcome Measure: Time to Clinical recoveryTime to Clinical Recovery (TTCR)
+Study Purpose: Treatment
 Organization: First Affiliated Hospital of Wenzhou Medical University
 As of February 19, 2020 the current status for this trial is 'Not yet recruiting', which began on February 20, 2020
 The anticipated completion date is June 30, 2020.
@@ -240,7 +240,7 @@ Brief Title: CD24Fc as a Non-antiviral Immunomodulator in COVID-19 Treatment
 Official Title: A Randomized, Double-blind, Placebo-controlled, Multi-site, Phase III Study to Evaluate the Safety and Efficacy of CD24Fc in COVID-19 Treatment
 Trial Phase: ['Phase 3']
 Intervention Name: CD24Fc, Placebo
-Outcome Measure: Improvement of COVID-19 disease status
+Study Purpose: Treatment
 Organization: OncoImmune, Inc.
 As of March 19, 2020 the current status for this trial is 'Not yet recruiting', which began on May 2020
 The anticipated completion date is May 2022.
@@ -257,7 +257,7 @@ Brief Title: Immunity and Safety of Covid-19 Synthetic Minigene Vaccine
 Official Title: Phase I/II Multicenter Trial of Lentiviral Minigene Vaccine (LV-SMENP) of Covid-19 Coronavirus
 Trial Phase: ['Phase 1', 'Phase 2']
 Intervention Name: Injection and infusion of LV-SMENP-DC vaccine and antigen-specific CTLs
-Outcome Measure: Clinical improvement based on the 7-point scale
+Study Purpose: Treatment
 Organization: Shenzhen Geno-Immune Medical Institute
 As of March 17, 2020 the current status for this trial is 'Recruiting', which began on March 24, 2020
 The anticipated completion date is December 31, 2024.
@@ -272,7 +272,7 @@ Brief Title: Nitric Oxide Gas Inhalation Therapy for Mild/Moderate COVID-19
 Official Title: Nitric Oxide Gas Inhalation Therapy in Spontaneous Breathing Patients With Mild/Moderate COVID-19: a Randomized Clinical Trial
 Trial Phase: ['Phase 2']
 Intervention Name: Nitric Oxide
-Outcome Measure: Reduction in the incidence of patients with mild/moderate COVID-19 requiring intubation and mechanical ventilation
+Study Purpose: Treatment
 Organization: Massachusetts General Hospital
 As of March 17, 2020 the current status for this trial is 'Not yet recruiting', which began on March 13, 2020
 The anticipated completion date is April 1, 2022.
@@ -287,7 +287,7 @@ Brief Title: Evaluation of the Efficacy and Safety of Sarilumab in Hospitalized 
 Official Title: An Adaptive Phase 2/3, Randomized, Double-Blind, Placebo-Controlled Study Assessing Efficacy and Safety of Sarilumab for Hospitalized Patients With COVID-19
 Trial Phase: ['Phase 2', 'Phase 3']
 Intervention Name: Sarilumab, Placebo
-Outcome Measure: Time to resolution of fever for at least 48 hours without antipyretics for 48 hours
+Study Purpose: Treatment
 Organization: Regeneron Pharmaceuticals
 As of March 17, 2020 the current status for this trial is 'Recruiting', which began on March 16, 2020
 The anticipated completion date is March 16, 2021.
@@ -308,7 +308,7 @@ Brief Title: A Pilot Study of Sildenafil in COVID-19
 Official Title: A Pilot Study of Sildenafi in the Treatment of COVID-19
 Trial Phase: ['Phase 3']
 Intervention Name: Sildenafil citrate tablets
-Outcome Measure: Rate of disease remission
+Study Purpose: Treatment
 Organization: Tongji Hospital
 As of March 14, 2020 the current status for this trial is 'Recruiting', which began on February 9, 2020
 The anticipated completion date is November 9, 2020.
@@ -323,7 +323,7 @@ Brief Title: Comparison of Lopinavir/Ritonavir or Hydroxychloroquine in Patients
 Official Title: Randomized Controlled Clinical Trials of Lopinavir/Ritonavir or Hydroxychloroquine in Patients With Mild Coronavirus Disease (COVID-19)
 Trial Phase: ['Phase 2']
 Intervention Name: Lopinavir/ritonavir, Hydroxychloroquine sulfate
-Outcome Measure: Viral load
+Study Purpose: Treatment
 Organization: Asan Medical Center
 As of March 12, 2020 the current status for this trial is 'Recruiting', which began on March 11, 2020
 The anticipated completion date is May 2020.
@@ -338,7 +338,7 @@ Brief Title: Yinhu Qingwen Decoction for the Treatment of Mild / Common CoVID-19
 Official Title: Adaptive, Randomized, Single-blind, Three-arm Parallel Controlled Clinical Trial of Yinhu Qingwen Decoction in the Treatment of Mild / Common CoVID-19
 Trial Phase: ['Phase 2', 'Phase 3']
 Intervention Name: YinHu QingWen Decoction, YinHu QingWen Decoction(low dose), Chinese medicine treatment, standard western medicine treatment
-Outcome Measure: Mean clinical recovery time (hours)
+Study Purpose: Treatment
 Organization: China Academy of Chinese Medical Sciences
 As of March 15, 2020 the current status for this trial is 'Active, not recruiting', which began on February 27, 2020
 The anticipated completion date is January 2021.
@@ -355,7 +355,7 @@ Brief Title: Mesenchymal Stem Cell NestCell® to Treat Patients With Severe COVI
 Official Title: Exploratory Clinical Study to Assess the Efficacy of Mesenchymal Stem Cell NestCell® to Treat Patients With Severe COVID-19 Pneumonia
 Trial Phase: ['Phase 1']
 Intervention Name: NestCell®
-Outcome Measure: Disappear time of ground-glass shadow in the lungs
+Study Purpose: Treatment
 Organization: Azidus Brasil
 As of March 18, 2020 the current status for this trial is 'Not yet recruiting', which began on April 2020
 The anticipated completion date is June 2020.
@@ -370,7 +370,7 @@ Brief Title: Fingolimod in COVID-19
 Official Title: Efficacy of Fingolimod in the Treatment of New Coronavirus Pneumonia (COVID-19)
 Trial Phase: ['Phase 2']
 Intervention Name: Fingolimod 0.5 mg
-Outcome Measure: The change of pneumonia severity on X-ray images
+Study Purpose: Treatment
 Organization: First Affiliated Hospital of Fujian Medical University
 As of February 20, 2020 the current status for this trial is 'Recruiting', which began on February 22, 2020
 The anticipated completion date is July 1, 2020.
@@ -385,7 +385,7 @@ Brief Title: Study to Evaluate the Safety and Antiviral Activity of Remdesivir (
 Official Title: A Phase 3 Randomized Study to Evaluate the Safety and Antiviral Activity of Remdesivir (GS-5734™) in Participants With Severe COVID-19
 Trial Phase: ['Phase 3']
 Intervention Name: Remdesivir, Standard of Care
-Outcome Measure: Proportion of Participants With Normalization of Fever and Oxygen Saturation Through Day 14
+Study Purpose: Treatment
 Organization: Gilead Sciences
 As of March 17, 2020 the current status for this trial is 'Recruiting', which began on March 6, 2020
 The anticipated completion date is May 2020.
@@ -400,7 +400,7 @@ Brief Title: Study to Evaluate the Safety and Antiviral Activity of Remdesivir (
 Official Title: A Phase 3 Randomized Study to Evaluate the Safety and Antiviral Activity of Remdesivir (GS-5734™) in Participants With Moderate COVID-19 Compared to Standard of Care Treatment
 Trial Phase: ['Phase 3']
 Intervention Name: Remdesivir, Standard of Care
-Outcome Measure: Proportion of Participants Discharged by Day 14
+Study Purpose: Treatment
 Organization: Gilead Sciences
 As of March 17, 2020 the current status for this trial is 'Recruiting', which began on March 15, 2020
 The anticipated completion date is May 2020.
@@ -415,7 +415,7 @@ Brief Title: Sars-CoV2 Seroconversion Among Front Line Medical and Paramedical S
 Official Title: Sars-CoV2 Seroconversion Among Medical and Paramedical Staff in Emergency, ICU and Infectious Disease Services During the 2020 Epidemic
 Trial Phase: ['Not Applicable']
 Intervention Name: blood sample
-Outcome Measure: Quantify the proportion of patients with documented Sars-CoV2 infection among medical and paramedical staff
+Study Purpose: Other
 Organization: Assistance Publique - Hôpitaux de Paris
 As of March 17, 2020 the current status for this trial is 'Recruiting', which began on March 16, 2020
 The anticipated completion date is October 16, 2020.
@@ -430,7 +430,7 @@ Brief Title: Medical Masks vs N95 Respirators for COVID-19
 Official Title: Medical Masks Versus N95 Respirators to Prevent 2019 Novel Coronavirus Disease (COVID-19) in Healthcare Workers: A Randomized Trial
 Trial Phase: ['Not Applicable']
 Intervention Name: Medical Mask, N95 respirator
-Outcome Measure: RT-PCR confirmed COVID-19 infection
+Study Purpose: Prevention
 Organization: McMaster University
 As of March 3, 2020 the current status for this trial is 'Not yet recruiting', which began on April 1, 2020
 The anticipated completion date is January 1, 2021.
@@ -445,7 +445,7 @@ Brief Title: Tetrandrine Tablets Used in the Treatment of COVID-19
 Official Title: Clinical Study of Tetrandrine Tablets Adjuvant Treatment With COVID-19
 Trial Phase: ['Phase 4']
 Intervention Name: Tetrandrine
-Outcome Measure: Survival rate
+Study Purpose: Treatment
 Organization: Henan Provincial People's Hospital
 As of March 13, 2020 the current status for this trial is 'Enrolling by invitation', which began on March 5, 2020
 The anticipated completion date is May 1, 2021.
@@ -460,7 +460,7 @@ Brief Title: Nitric Oxide Gas Inhalation Therapy for Mild/Moderate COVID19 Infec
 Official Title: Nitric Oxide Gas Inhalation Therapy in Spontaneous Breathing Patients With Mild/Moderate COVID19 Infection: a Randomized Clinical Trial
 Trial Phase: ['Phase 2']
 Intervention Name: Nitric Oxide
-Outcome Measure: Reduction in the incidence of intubation and mechanical ventilation
+Study Purpose: Treatment
 Organization: Xijing Hospital
 As of March 9, 2020 the current status for this trial is 'Not yet recruiting', which began on March 1, 2020
 The anticipated completion date is February 1, 2022.
@@ -475,7 +475,7 @@ Brief Title: The Clinical Study of Carrimycin on Treatment Patients With COVID-1
 Official Title: The Efficacy and Safety of Carrimycin Treatment in Patients With Novel Coronavirus Infectious Disease (COVID-19) : A Multicenter, Randomized, Open-controlled Study
 Trial Phase: ['Phase 4']
 Intervention Name: Carrimycin, lopinavir/ritonavir tablets or Arbidol or chloroquine phosphate, basic treatment
-Outcome Measure: Fever to normal time (day)
+Study Purpose: Treatment
 Organization: Beijing YouAn Hospital
 As of February 25, 2020 the current status for this trial is 'Not yet recruiting', which began on February 23, 2020
 The anticipated completion date is February 28, 2021.
@@ -490,7 +490,7 @@ Brief Title: Treatment With Mesenchymal Stem Cells for Severe Corona Virus Disea
 Official Title: Prospective, Randomized, Multi-center Phase 2 Clinical Trial of Mesenchymal Stem Cell(MSC) for the Treatment of Severe Corona Virus Disease 2019(COVID-19)
 Trial Phase: ['Phase 1', 'Phase 2']
 Intervention Name: MSCs, Saline containing 1% Human serum albumin（solution of MSC）
-Outcome Measure: Improvement time of clinical critical treatment index within 28 days
+Study Purpose: Treatment
 Organization: Beijing 302 Hospital
 As of March 6, 2020 the current status for this trial is 'Recruiting', which began on March 5, 2020
 The anticipated completion date is December 31, 2021.
@@ -505,7 +505,7 @@ Brief Title: Randomized Controlled Trial of Losartan for Patients With COVID-19 
 Official Title: Randomized Controlled Trial of Losartan for Patients With COVID-19 Not Requiring Hospitalization
 Trial Phase: ['Phase 2']
 Intervention Name: Losartan, Placebo
-Outcome Measure: Hospital Admission
+Study Purpose: Treatment
 Organization: University of Minnesota
 As of March 13, 2020 the current status for this trial is 'Not yet recruiting', which began on March 16, 2020
 The anticipated completion date is April 1, 2021.
@@ -520,7 +520,7 @@ Brief Title: Bevacizumab in Severe or Critical Patients With COVID-19 Pneumonia-
 Official Title: The Efficacy and Safety of Bevacizumab in Severe or Critical Patients With COVID-19 Pneumonia--a Multi-Centered Randomized ControlledClinical Trial
 Trial Phase: ['Not Applicable']
 Intervention Name: Bevacizumab
-Outcome Measure: Proportion of patients whose oxygenation index increased by 100mmhg on the 7th day after admission
+Study Purpose: Treatment
 Organization: Qilu Hospital of Shandong University
 As of March 9, 2020 the current status for this trial is 'Not yet recruiting', which began on March 12, 2020
 The anticipated completion date is May 31, 2020.
@@ -541,7 +541,7 @@ Brief Title: Yinhu Qingwen Granula for the Treatment of Severe CoVID-19
 Official Title: An Adaptive, Randomized, Double-blind, Parallel-controlled Clinical Trial of Yinhu Qingwen Granula for the Treatment of Severe CoVID-19
 Trial Phase: ['Phase 2', 'Phase 3']
 Intervention Name: Yinhu Qingwen Granula, Yin Hu Qing Wen Granula(low does), standard medical treatment
-Outcome Measure: changes in the ratio of PaO2 to FiO2 from baseline
+Study Purpose: Prevention
 Organization: China Academy of Chinese Medical Sciences
 As of March 15, 2020 the current status for this trial is 'Not yet recruiting', which began on March 20, 2020
 The anticipated completion date is June 30, 2021.
@@ -556,7 +556,7 @@ Brief Title: Stem Cell Educator Therapy Treat the Viral Inflammation Caused by S
 Official Title: Clinical Application of Stem Cell Educator Therapy for the Treatment of Viral Inflammation Caused by Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2)
 Trial Phase: ['Phase 2']
 Intervention Name: Stem Cell Educator-Treated Mononuclear Cells Apheresis
-Outcome Measure: Determine the number of Covid-19 patients who were unable to complete SCE Therapy
+Study Purpose: Treatment
 Organization: Tianhe Stem Cell Biotechnologies Inc.
 As of March 19, 2020 the current status for this trial is 'Not yet recruiting', which began on April 10, 2020
 The anticipated completion date is November 10, 2020.
@@ -571,7 +571,7 @@ Brief Title: Efficacy and Safety of Corticosteroids in COVID-19
 Official Title: Efficacy and Safety of Corticosteroids in COVID-19: A Prospective Randomized Controlled Trails
 Trial Phase: ['Not Applicable']
 Intervention Name: Methylprednisolone
-Outcome Measure: the incidence of treatment failure in 14 days
+Study Purpose: Treatment
 Organization: Beijing Chao Yang Hospital
 As of February 20, 2020 the current status for this trial is 'Recruiting', which began on February 14, 2020
 The anticipated completion date is May 30, 2020.
@@ -586,7 +586,7 @@ Brief Title: The Effect of T89 on Improving Oxygen Saturation and Clinical Sympt
 Official Title: A Clinical Study to Investigate the Effect of T89 on Improving Oxygen Saturation and Clinical Symptoms in Patients With Coronavirus Disease 2019 (COVID-19)
 Trial Phase: ['Not Applicable']
 Intervention Name: T89
-Outcome Measure: The time to oxygen saturation recovery to normal level (≥97%)
+Study Purpose: Treatment
 Organization: Tasly Pharmaceuticals, Inc.
 As of February 24, 2020 the current status for this trial is 'Not yet recruiting', which began on February 26, 2020
 The anticipated completion date is September 15, 2020.
@@ -601,7 +601,7 @@ Brief Title: Blood Donor Recruitment During Epidemic of COVID-19
 Official Title: Blood Donor Recruitment During Epidemic of COVID-19 in Guangzhou, China
 Trial Phase: ['Not Applicable']
 Intervention Name: Questionnaire with precaution information, Experimental: Questionnaire without precaution information
-Outcome Measure: Differences of attitude about blood donation towards different questionnaires
+Study Purpose: Health Services Research
 Organization: Guangzhou Blood Center
 As of March 10, 2020 the current status for this trial is 'Not yet recruiting', which began on March 12, 2020
 The anticipated completion date is April 9, 2020.
@@ -616,7 +616,7 @@ Brief Title: Evaluating the Efficacy and Safety of Bromhexine Hydrochloride Tabl
 Official Title: Evaluating the Efficacy and Safety of Bromhexine Hydrochloride Tablets Combined With Standard Treatment/ Standard Treatment in Patients With Suspected and Mild Novel Coronavirus Pneumonia (COVID-19)
 Trial Phase: ['Not Applicable']
 Intervention Name: Bromhexine Hydrochloride Tablets, Arbidol Hydrochloride Granules, Recombinant Human Interferon α2b Spray, Favipiravir Tablets
-Outcome Measure: Time to clinical recovery after treatment
+Study Purpose: Treatment
 Organization: Second Affiliated Hospital of Wenzhou Medical University
 As of February 25, 2020 the current status for this trial is 'Enrolling by invitation', which began on February 16, 2020
 The anticipated completion date is April 30, 2020.
@@ -633,7 +633,7 @@ Brief Title: Norwegian Coronavirus Disease 2019 Study
 Official Title: Norwegian Coronavirus Disease 2019 Study: An Open Labeled Randomized Controlled Pragmatic Trial to Evaluate the Antiviral Effect of Chloroquine in Adult Patients With SARS-CoV-2 Infection
 Trial Phase: ['Phase 4']
 Intervention Name: Hydroxychloroquine Sulfate
-Outcome Measure: Rate of decline in SARS-CoV-2 viral load
+Study Purpose: Treatment
 Organization: University Hospital, Akershus
 As of March 18, 2020 the current status for this trial is 'Not yet recruiting', which began on March 23, 2020
 The anticipated completion date is March 3, 2025.
@@ -648,7 +648,7 @@ Brief Title: Trial of Treatments for COVID-19 in Hospitalized Adults
 Official Title: Multi-centre, Adaptive, Randomized Trial of the Safety and Efficacy of Treatments of COVID-19 in Hospitalized Adults
 Trial Phase: ['Phase 3']
 Intervention Name: Remdesivir, Lopinavir/ritonavir, Interferon Beta-1A, Standard of care
-Outcome Measure: Percentage of subjects reporting each severity rating on a 7-point ordinal scale
+Study Purpose: Treatment
 Organization: Institut National de la Santé Et de la Recherche Médicale, France
 As of March 18, 2020 the current status for this trial is 'Not yet recruiting', which began on March 2020
 The anticipated completion date is March 2023.
@@ -663,7 +663,7 @@ Brief Title: Randomized Controlled Trial of Losartan for Patients With COVID-19 
 Official Title: Randomized Controlled Trial of Losartan for Patients With COVID-19 Requiring Hospitalization
 Trial Phase: ['Phase 2']
 Intervention Name: Losartan, Placebo
-Outcome Measure: Sequential Organ Failure Assessment (SOFA) Respiratory Score
+Study Purpose: Treatment
 Organization: University of Minnesota
 As of March 13, 2020 the current status for this trial is 'Not yet recruiting', which began on March 16, 2020
 The anticipated completion date is April 1, 2021.
@@ -678,7 +678,7 @@ Brief Title: Bevacizumab in Severe or Critical Patients With COVID-19 Pneumonia
 Official Title: A Pilot Study of Bevacizumab in the Treatment of Severe or Critical Patients With COVID-19 Pneumonia (BEST-CP)
 Trial Phase: ['Phase 2', 'Phase 3']
 Intervention Name: Bevacizumab Injection
-Outcome Measure: Partial arterial oxygen pressure (PaO2) to fraction of inspiration O2 (FiO2) ratio
+Study Purpose: Treatment
 Organization: Qilu Hospital of Shandong University
 As of February 16, 2020 the current status for this trial is 'Recruiting', which began on February 2020
 The anticipated completion date is May 2020.
@@ -693,7 +693,7 @@ Brief Title: Immunoregulatory Therapy for 2019-nCoV
 Official Title: Immunoregulatory Therapy for 2019-nCoV-induced Severe Pneumonia Patients
 Trial Phase: ['Phase 2']
 Intervention Name: PD-1 blocking antibody+standard treatment, Thymosin+standard treatment, standard treatment
-Outcome Measure: lung injury score
+Study Purpose: Treatment
 Organization: Southeast University, China
 As of February 12, 2020 the current status for this trial is 'Not yet recruiting', which began on February 10, 2020
 The anticipated completion date is October 31, 2020.
@@ -708,7 +708,7 @@ Brief Title: Washed Microbiota Transplantation for Patients With 2019-nCoV Infec
 Official Title: Washed Microbiota Transplantation for Patients With 2019-nCoV Infection: a Randomized, Double-blind, Placebo-controlled Study
 Trial Phase: ['Not Applicable']
 Intervention Name: washed microbiota transplantation, placebo
-Outcome Measure: Number of participants with improvement from severe type to common type
+Study Purpose: Treatment
 Organization: The Second Hospital of Nanjing Medical University
 As of March 13, 2020 the current status for this trial is 'Withdrawn', which began on February 5, 2020
 The anticipated completion date is April 30, 2020.
@@ -723,7 +723,7 @@ Brief Title: Intravenous Aviptadil for COVID-19 Associated Acute Respiratory Dis
 Official Title: Intravenous Aviptadil for COVID-19 Associated Acute Respiratory Distress
 Trial Phase: ['Phase 2']
 Intervention Name: Aviptadil by intravenous infusion, Aviptadil by endotracheal nebulization
-Outcome Measure: Mortality
+Study Purpose: Treatment
 Organization: NeuroRx, Inc.
 As of March 16, 2020 the current status for this trial is 'Not yet recruiting', which began on April 2020
 The anticipated completion date is September 2020.
@@ -738,7 +738,7 @@ Brief Title: Nitric Oxide Gas Inhalation for Severe Acute Respiratory Syndrome i
 Official Title: Nitric Oxide Gas Inhalation Therapy for Severe Acute Respiratory Syndrome Due to COVID-19.
 Trial Phase: ['Phase 2']
 Intervention Name: Nitric Oxide Gas
-Outcome Measure: SARS-free patients at 14 days
+Study Purpose: Treatment
 Organization: Xijing Hospital
 As of March 3, 2020 the current status for this trial is 'Not yet recruiting', which began on March 1, 2020
 The anticipated completion date is March 1, 2022.
@@ -753,7 +753,7 @@ Brief Title: Therapy for Pneumonia Patients iInfected by 2019 Novel Coronavirus
 Official Title: Human Umbilical Cord Mesenchymal Stem Cells Treatment for Pneumonia Patients Infected by 2019 Novel Coronavirus
 Trial Phase: ['Not Applicable']
 Intervention Name: UC-MSCs, Placebo
-Outcome Measure: Size of lesion area by chest imaging
+Study Purpose: Treatment
 Organization: Puren Hospital Affiliated to Wuhan University of Science and Technology
 As of March 15, 2020 the current status for this trial is 'Withdrawn', which began on February 24, 2020
 The actual completion date is February 25, 2020.
@@ -768,7 +768,7 @@ Brief Title: Treatment of Acute Severe 2019-nCoV Pneumonia With Immunoglobulin F
 Official Title: An Exploratory Clinical Study on the Treatment of Acute Severe 2019-nCoV Pneumonia With Immunoglobulin From Cured 2019-nCoV Pneumonia Patients
 Trial Phase: ['Not Applicable']
 Intervention Name: Immunoglobulin of cured patients, γ-Globulin
-Outcome Measure: Time to Clinical Improvement (TTCI)
+Study Purpose: Treatment
 Organization: Wuhan Union Hospital, China
 As of March 13, 2020 the current status for this trial is 'Not yet recruiting', which began on March 17, 2020
 The anticipated completion date is May 31, 2020.
@@ -783,7 +783,7 @@ Brief Title: Adaptive COVID-19 Treatment Trial
 Official Title: A Multicenter, Adaptive, Randomized Blinded Controlled Trial of the Safety and Efficacy of Investigational Therapeutics for the Treatment of COVID-19 in Hospitalized Adults
 Trial Phase: ['Phase 2']
 Intervention Name: Placebo, Remdesivir
-Outcome Measure: Percentage of subjects reporting each severity rating on the 7-point ordinal scale
+Study Purpose: Treatment
 Organization: National Institute of Allergy and Infectious Diseases (NIAID)
 As of March 18, 2020 the current status for this trial is 'Recruiting', which began on February 21, 2020
 The anticipated completion date is April 1, 2023.
@@ -798,7 +798,7 @@ Brief Title: Treatment and Prevention of Traditional Chinese Medicines (TCMs) on
 Official Title: Effects of Traditional Chinese Medicines (TCMs) on Patients With 2019-nCoV Infection: A Perspective, Open-labeled, Randomized, Controlled Trial
 Trial Phase: ['Not Applicable']
 Intervention Name: Conventional medicines (Oxygen therapy, alfa interferon via aerosol inhalation, and lopinavir/ritonavir) and Traditional Chinese Medicines (TCMs) granules, Conventional medicines (Oxygen therapy, alfa interferon via aerosol inhalation, and lopinavir/ritonavir)
-Outcome Measure: Time to complete remission of 2019-nCoV infection-associated symptoms
+Study Purpose: Treatment
 Organization: Beijing 302 Hospital
 As of January 30, 2020 the current status for this trial is 'Recruiting', which began on January 22, 2020
 The anticipated completion date is January 22, 2021.
@@ -813,7 +813,7 @@ Brief Title: Mesenchymal Stem Cell Treatment for Pneumonia Patients Infected Wit
 Official Title: Safety and Efficiency of Mesenchymal Stem Cell in Treating Pneumonia Patients Infected With 2019 Novel Coronavirus
 Trial Phase: ['Phase 1']
 Intervention Name: MSCs
-Outcome Measure: Size of lesion area by chest radiograph or CT
+Study Purpose: Treatment
 Organization: Beijing 302 Hospital
 As of February 25, 2020 the current status for this trial is 'Recruiting', which began on January 27, 2020
 The anticipated completion date is December 2021.
@@ -828,7 +828,7 @@ Brief Title: Nitric Oxide Gas Inhalation in Severe Acute Respiratory Syndrome in
 Official Title: Nitric Oxide Gas Inhalation Therapy for Mechanically Ventilated Patients With Severe Acute Respiratory Syndrome Caused by SARS-CoV2: a Randomized Clinical Trial.
 Trial Phase: ['Phase 2']
 Intervention Name: Nitric Oxide Gas
-Outcome Measure: Change of arterial oxygenation at 48 hours from enrollment
+Study Purpose: Treatment
 Organization: Massachusetts General Hospital
 As of March 16, 2020 the current status for this trial is 'Not yet recruiting', which began on March 10, 2020
 The anticipated completion date is March 10, 2022.
@@ -843,7 +843,7 @@ Brief Title: Mild/Moderate 2019-nCoV Remdesivir RCT
 Official Title: A Phase 3 Randomized, Double-blind, Placebo-controlled Multicenter Study to Evaluate the Efficacy and Safety of Remdesivir in Hospitalized Adult Patients With Mild and Moderate 2019-nCoV Respiratory Disease.
 Trial Phase: ['Phase 3']
 Intervention Name: Remdesivir, Remdesivir placebo
-Outcome Measure: Time to Clinical recoveryTime to Clinical Recovery (TTCR)
+Study Purpose: Treatment
 Organization: Capital Medical University
 As of February 20, 2020 the current status for this trial is 'Recruiting', which began on February 12, 2020
 The anticipated completion date is April 27, 2020.
@@ -860,7 +860,7 @@ Brief Title: Umbilical Cord(UC)-Derived Mesenchymal Stem Cells(MSCs) Treatment f
 Official Title: Clinical Research Regarding the Availability and Safety of UC-MSCs Treatment for Serious Pneumonia and Critical Pneumonia Caused by the 2019-nCOV Infection
 Trial Phase: ['Phase 2']
 Intervention Name: UC-MSCs
-Outcome Measure: Oxygenation index
+Study Purpose: Prevention
 Organization: Zhongnan Hospital
 As of February 12, 2020 the current status for this trial is 'Recruiting', which began on February 6, 2020
 The anticipated completion date is September 30, 2020.
@@ -875,7 +875,7 @@ Brief Title: The Efficacy of Intravenous Immunoglobulin Therapy for Severe 2019-
 Official Title: A Randomized, Open-label, Controlled, Single-center Study to Evaluate the Efficacy of Intravenous Immunoglobulin Therapy in Patients With Severe 2019- nCoV Pneumonia
 Trial Phase: ['Phase 2', 'Phase 3']
 Intervention Name: Intravenous Immunoglobulin, Standard care
-Outcome Measure: Clinical improvement based on the 7-point scale
+Study Purpose: Treatment
 Organization: Peking Union Medical College Hospital
 As of February 6, 2020 the current status for this trial is 'Not yet recruiting', which began on February 10, 2020
 The anticipated completion date is June 30, 2020.
@@ -890,7 +890,7 @@ Brief Title: Treatment of Pulmonary Fibrosis Due to 2019-nCoV Pneumonia With Fuz
 Official Title: A Randomized, Placebo-Controlled, Multi-Center Study on the Efficacy and Safety of Fuzheng Huayu on Pulmonary Fibrosis Due to 2019-nCoV
 Trial Phase: ['Phase 2']
 Intervention Name: N-acetylcysteine+ Fuzheng Huayu Tablet, N-acetylcysteine+Placebo
-Outcome Measure: High-resolution computed tomography (HRCT) score
+Study Purpose: Treatment
 Organization: ShuGuang Hospital
 As of February 19, 2020 the current status for this trial is 'Recruiting', which began on February 15, 2020
 The anticipated completion date is December 2022.
@@ -905,7 +905,7 @@ Brief Title: A Prospective/Retrospective,Randomized Controlled Clinical Study of
 Official Title: An Open, Prospective/Retrospective, Randomized Controlled Cohort Study to Compare the Efficacy of Two Therapeutic Schemes(Abidol Hydrochloride,Abidol Hydrochloride Combined With Interferon Atomization)in the Treatment of 2019-nCoV Pneumonia.
 Trial Phase: ['Phase 4']
 Intervention Name: Abidol hydrochloride, Abidol Hydrochloride combined with Interferon atomization
-Outcome Measure: Rate of disease remission
+Study Purpose: Treatment
 Organization: Tongji Hospital
 As of March 14, 2020 the current status for this trial is 'Recruiting', which began on February 1, 2020
 The anticipated completion date is July 1, 2020.
@@ -920,7 +920,7 @@ Brief Title: A Randomized,Open,Controlled Clinical Study to Evaluate the Efficac
 Official Title: A Randomized,Open,Controlled Small Sample Clinical Study to Evaluate the Efficacy and Safety of ASC09/Ritonavir Compound Tablets and Ritonavir for 2019-nCoV Pneumonia
 Trial Phase: ['Phase 3']
 Intervention Name: ASC09F+Oseltamivir, Ritonavir+Oseltamivir, Oseltamivir
-Outcome Measure: Rate of comprehensive adverse outcome
+Study Purpose: Treatment
 Organization: Tongji Hospital
 As of March 14, 2020 the current status for this trial is 'Recruiting', which began on February 1, 2020
 The anticipated completion date is July 1, 2020.
@@ -935,7 +935,7 @@ Brief Title: A Prospective/Retrospective,Randomized Controlled Clinical Study of
 Official Title: An Open, Prospective/Retrospective, Randomized Controlled Cohort Study to Compare the Efficacy of Three Antiviral Drugs(Abidol Hydrochloride, Oseltamivir and Lopinavir/Ritonavir) in the Treatment of 2019-nCoV Pneumonia.
 Trial Phase: ['Phase 4']
 Intervention Name: Abidol hydrochloride, Oseltamivir, Lopinavir/ritonavir
-Outcome Measure: Rate of disease remission
+Study Purpose: Treatment
 Organization: Tongji Hospital
 As of March 14, 2020 the current status for this trial is 'Recruiting', which began on February 1, 2020
 The anticipated completion date is July 1, 2020.
@@ -950,7 +950,7 @@ Brief Title: The Efficacy of Different Hormone Doses in 2019-nCoV Severe Pneumon
 Official Title: An Open, Prospective/Retrospective, Randomized Controlled Cohort Study to Compare the Efficacy of Different Hormone Doses in the Treatment of 2019-nCoV Severe Pneumonia
 Trial Phase: ['Phase 4']
 Intervention Name: Methylprednisolone, Methylprednisolone
-Outcome Measure: Rate of disease remission
+Study Purpose: Treatment
 Organization: Tongji Hospital
 As of March 14, 2020 the current status for this trial is 'Recruiting', which began on February 1, 2020
 The anticipated completion date is July 1, 2020.
@@ -965,7 +965,7 @@ Brief Title: Post-exposure Prophylaxis for SARS-Coronavirus-2
 Official Title: Post-exposure Prophylaxis for SARS-Coronavirus-2: A Pragmatic Randomized Clinical Trial
 Trial Phase: ['Phase 2', 'Phase 3']
 Intervention Name: Hydroxychloroquine, Placebo
-Outcome Measure: Incidence of COVID19 Disease
+Study Purpose: Treatment
 Organization: University of Minnesota
 As of March 17, 2020 the current status for this trial is 'Recruiting', which began on March 17, 2020
 The anticipated completion date is May 2021.
@@ -980,7 +980,7 @@ Brief Title: Multicenter Clinical Study on the Efficacy and Safety of Xiyanping 
 Official Title: Multicenter Clinical Study on the Efficacy and Safety of Xiyanping Injection in the Treatment of New Coronavirus Infection Pneumonia (General and Severe)
 Trial Phase: ['Not Applicable']
 Intervention Name: Lopinavir / ritonavir tablets combined with Xiyanping injection, Lopinavir/ritonavir treatment
-Outcome Measure: Clinical recovery time
+Study Purpose: Treatment
 Organization: Jiangxi Qingfeng Pharmaceutical Co. Ltd.
 As of March 3, 2020 the current status for this trial is 'Not yet recruiting', which began on March 14, 2020
 The anticipated completion date is April 14, 2021.
@@ -997,7 +997,7 @@ Brief Title: Safety and Immunogenicity Study of 2019-nCoV Vaccine (mRNA-1273) to
 Official Title: Phase I, Open-Label, Dose-Ranging Study of the Safety and Immunogenicity of 2019-nCoV Vaccine (mRNA-1273) in Healthy Adults
 Trial Phase: ['Phase 1']
 Intervention Name: mRNA-1273
-Outcome Measure: Frequency of solicited local reactogenicity adverse events (AEs)
+Study Purpose: Prevention
 Organization: National Institute of Allergy and Infectious Diseases (NIAID)
 As of March 19, 2020 the current status for this trial is 'Recruiting', which began on March 3, 2020
 The anticipated completion date is June 1, 2021.
