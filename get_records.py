@@ -1,3 +1,4 @@
+#%%writefile get_records.py
 import requests
 
 def get_covid_data(num_records, search='covid-19'):
@@ -49,7 +50,8 @@ for study in li:
     phase = study['Study']['ProtocolSection']['DesignModule']['PhaseList']['Phase']
 
     interventionName = ', '.join(i['InterventionName'] for i in study['Study']['ProtocolSection']['ArmsInterventionsModule']['InterventionList']['Intervention'])
-
+    outcomeMeasure = study['Study']['ProtocolSection']['OutcomesModule']['PrimaryOutcomeList']['PrimaryOutcome'][0]['PrimaryOutcomeMeasure']
+    
     lastUpdate = study['Study']['ProtocolSection']['StatusModule']['LastUpdateSubmitDate']
     currentStatus = study['Study']['ProtocolSection']['StatusModule']['OverallStatus']
     startDate = study['Study']['ProtocolSection']['StatusModule']['StartDateStruct']['StartDate']
@@ -66,6 +68,7 @@ f"""Brief Title: {bTitle}
 Official Title: {oTitle}
 Trial Phase: {phase}
 Intervention Name: {interventionName}
+Outcome Measure: {outcomeMeasure}
 Organization: {orgName}
 As of {lastUpdate} the current status for this trial is '{currentStatus}', which began on {startDate}
 The {compType.lower()} completion date is {compDate}.
